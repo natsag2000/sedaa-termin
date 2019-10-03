@@ -1,7 +1,6 @@
+[AD Ticket Konzert-Tickets im Shop oder Online bestellen](http://www.adticket.de/Sedaa.html) 
+
 ## Tour 2019
-
-[AD Ticket](http://www.adticket.de/Sedaa.html) (Konzert-Tickets im Shop oder Online bestellen)  
-
 - **18.01.** Göttingen - Apex 20:00
 - **19.01.** Hamburg - Kulturkirche Altona 19:30
 - 23.01. Freiburg - 20 Minuten Showcase auf der Kulturbörse 17:30
