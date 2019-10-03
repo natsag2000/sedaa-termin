@@ -1,0 +1,117 @@
+## Tour 2019
+
+[AD Ticket](http://www.adticket.de/sedaa) (Konzert-Tickets im Shop oder Online bestellen)
+
+18.01. Göttingen - Apex 20:00
+19.01. Hamburg - Kulturkirche Altona 19:30
+23.01. Freiburg - 20 Minuten Showcase auf der Kulturbörse 17:30
+25.01. Sulzbach-Rosenberg - Kulturwerkstatt 20:00
+27.01. Heidelberg - Dai - Filmfestival 17:00
+02.02. Vöhl - Synagoge 19:00
+03.02. Herbstein - Gemeinschaft Altenschlirf 19:30
+08.02. Hannover - Kanapee 20:00
+09.02. Hannover - Kanapee 20:00
+10.02. München - 5 Kontinente Museum
+27.02. Rosenheim - Le Pirate 20:00
+28.02. Österreich - Baden - Haus der Kunst 19:30
+01.03. Österreich - Wien - Sargfabrik 20:00
+02.03. Ungarn - Budapest 19:00
+03.03. Ungarn - Egger 16:00
+13.03. Schweiz - Baar - Rathus-Schüür 20:15
+15.03. Bochum - Bochumer Kulturrat e.V. 20:00
+17.03. Solingen - Evang. Stadtkirche 17:00
+21.03. Isernhagen - KulturKaffee Rautenkranz 20:00
+23.03. Celle - Gajah 20:00
+24.03. Hiddenhausen - Kulturwerkstatt 20:00
+25.04. Bad Homburg - Englische Kirche 20:00
+26.04. Heilbronn - Landesgartenschau 15:00
+27.04. Ottersberg - Kreuzbuchen Halle 20:00
+18.05. Hildesheim - Privatkonzert
+21.05. Hermannsburg 20:00
+31.05. Bamberg - Lichtspiel Odeon 19:00
+01.06. Dorfen - Dorfener Saitenfestival
+02.06. Marburg - Waldnühne Spiegelslustturm
+04.06. Wustrow - Kulturelle Landpartie - Villa Wendland 19:30
+05.06. Luckau - Kulturelle Landpartie - Beesem 20 - 17:00
+06.06. Wismar - Theater 19:30
+14.06. Darmstadt - Agora am Ostbahnhof 20:00
+15.06. Holland - Vorden - Manana manana Festival 10:45 & 12:15
+16.06. Reinstorf - One World Kulturzentrum 17:00
+21.06. Schweiz - Chur - Jazz Welt Festival 22:00
+28.06 - 01.07 - Kanada - Alianait Festival
+03.07 - 09.07 USA - Washington DC - Serenade! Choral Festival
+10.07 - 14.07 Malaysia - Kuching - Rainforest Festival
+08.08. Tschechien - Telc - Folk Music Festival
+09.08. Taucha - Ancient Trance Festival 16:00
+10.08. Osnabrück
+11.08. Parimal - Gut Hübenthal
+15.08. Holland - Lottum - Kaldenbroek
+16.08. Privatkonzert
+17.08. Selters/Westerwald - Alter Steinbruch 19:30
+24.08. Österreich - Asparn an der Zaya
+25.08. Österreich - Asparn an der Zaya
+28.08. Villingen-Schwenningen - Innenhof Festival
+29.08. 31.08. Portugal - Fatt Didgeridoo Festival
+01.09. Bayreuth - Kloster Speinshart 16:00
+05.09. Hagenow - Alten Synagoge 21:00
+06.09. Schwerin - Windrose Festival
+07.09. Schwerin - Windrose Festival mit Chorbegleitung
+08.09. Schwerin - Schloß Alten Garten 15:20
+20.09. Bakauerland - Kapelle Nettelsee 20:30
+21.09. Nottuln - Kunst und Kultur e.V. 20:00
+22.09. Remstal - Kernen - Gartenschau
+04.10. Essen - Katakomben Theater 19:00
+05.10. Iserlohn - Dechenhöhle 19:00
+06.10. Bad Bentheim Hennekens Hof 15:30
+08.11. Werne - Flöz-K 20:00
+10.11. Dortmund - Domicil 16:00
+14.11. Augsburg - Kressmühle 20:00
+15.11. Marburg - KFZ 20:00
+16.11. Wiesenburg - Mal's Scheune 20:00
+17.11. Bückeburg - Schloss Baum 18:00
+19.11. Beverungen - IG Metall Bildungsverein 19:30
+21.11. Puchheim - jazz around the world
+22.11. Weil am Rhein - Kesselhaus 20:00
+23.11. Schweiz - Horgen - Atelier Hinterrüti
+29.11. Hannover - Pavillon 20:00 << Jubiläums Konzert >>
+13.12. Minden - Ameise Kulturhügel 20:00
+14.12. Heidelberg - DAI
+
+## Tour 2020
+16.01. Ratingen - Buchcafe Peter & Paula 20:00
+17.01. Göttingen - Rathaus 20:00
+18.01. Bremen - Kultur Ambulanz 20:00
+24.01. Glems - Hirsch 20:30
+25.01. Wolfach - Klausenbauernhof 20:00
+01.02. Müllenbach - Alte schule 20:00
+02.02. Heidelberg - DAI Filmfestival 20:00
+14.03. Buxtehude - Theater im Hinterhof 20:00
+03.04. Eltville - KUZ Eichberg 20:00
+04.04. Bolanden - Weierhof - Blaues Haus 20:00
+05.04. Schweiz - Ins - Kulturverein INSgeheim 16:00
+08.04. Mainz - SWR Funkhaus 19:00
+09.04. Schwäbisch Gmünd - Kulturcafe 20:00
+24.04. Bochum - Kulturrat e.V. 20:00
+26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
+09.05. Berlin - Petruskirche 20:00
+15.05. Slowakei - Slovak City of Culture - Nové Zámky 2020
+16.05. Slowakei - Slovak City of Culture - Nové Zámky 2020
+07.06. Schweiz - Frauenfeld
+20.06. Bröckel - FlotArt Sommerfest
+04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
+20.09. Laichingen - Altes Rathaus 11:00
+08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt 20:00
+10.10. Straubingen - Raven 20:00
+11.10. München ARS Musica 20:00
+12.10. Harenberg - St. Barbarakirche 19:00
+14.11. Meidelstetten - Adler 20:00
+21.11. Holland - Limburg Parkstad -Theaters-Heerlen
+28.11. Bad Rodach - Elsa47 20:00
+09.12. Rosenheim - Le Pirate 20:30
+11.12. Nürnberg - Villa Leon 20:00
+
+
+## Tour 2021
+30.01. Hersbruck - Kultkick 20:00
+18.04. Holland - Sluis-Zeeland - Belfried Sluis
+24.04. Weilburg - LindenCult 20:00
