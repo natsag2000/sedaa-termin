@@ -115,3 +115,4 @@
 - 30.01. Hersbruck - Kultkick 20:00
 - 18.04. Holland - Sluis-Zeeland - Belfried Sluis
 - 24.04. Weilburg - LindenCult 20:00
+- 20.04. Test
