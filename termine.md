@@ -105,6 +105,7 @@
 - 11.10. München ARS Musica 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.11. Meidelstetten - Adler 20:00
+- 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 21.11. Holland - Limburg Parkstad -Theaters-Heerlen
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
@@ -113,5 +114,5 @@
 ## Tour 2021
 
 - 30.01. Hersbruck - Kultkick 20:00
-- 18.04. Holland - Sluis-Zeeland - Belfried Sluis
 - 24.04. Weilburg - LindenCult 20:00
+- 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
