@@ -25,7 +25,6 @@
 - 25.04. Bad Homburg - Englische Kirche 20:00
 - 26.04. Heilbronn - Landesgartenschau 15:00
 - 27.04. Ottersberg - Kreuzbuchen Halle 20:00
-- 18.05. Hildesheim - Privatkonzert
 - 21.05. Hermannsburg 20:00
 - 31.05. Bamberg - Lichtspiel Odeon 19:00
 - 01.06. Dorfen - Dorfener Saitenfestival
@@ -45,7 +44,6 @@
 - 10.08. Osnabrück
 - 11.08. Parimal - Gut Hübenthal
 - 15.08. Holland - Lottum - Kaldenbroek
-- 16.08. Privatkonzert
 - 17.08. Selters/Westerwald - Alter Steinbruch 19:30
 - 24.08. Österreich - Asparn an der Zaya
 - 25.08. Österreich - Asparn an der Zaya
@@ -56,7 +54,6 @@
 - 06.09. Schwerin - Windrose Festival
 - 07.09. Schwerin - Windrose Festival mit Chorbegleitung
 - 08.09. Schwerin - Schloß Alten Garten 15:20
-- 20.09. Bakauerland - Kapelle Nettelsee 20:30
 - 21.09. Nottuln - Kunst und Kultur e.V. 20:00
 - 22.09. Remstal - Kernen - Gartenschau
 - 04.10. Essen - Katakomben Theater 19:00
