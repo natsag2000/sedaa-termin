@@ -91,8 +91,9 @@
 - 24.04. Bochum - Kulturrat e.V. 20:00
 - 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 09.05. Berlin - Petruskirche 20:00
-- 15.05. Slowakei - Slovak City of Culture - Nové Zámky 2020
-- 16.05. Slowakei - Slovak City of Culture - Nové Zámky 2020
+- 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
+- 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop)
+- 06.06. Hannover - Internationaler Feuerwerkswettbewerb
 - 07.06. Schweiz - Frauenfeld
 - 20.06. Bröckel - FlotArt Sommerfest
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
