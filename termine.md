@@ -113,4 +113,7 @@
 
 - 30.01. Hersbruck - Kultkick 20:00
 - 24.04. Weilburg - LindenCult 20:00
+- 29.04. Freudenstadt - Kultur am Dobel 20:00
+- 30.04. Göppingen - Odeon 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+
