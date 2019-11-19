@@ -94,7 +94,8 @@
 - 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
 - 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop)
 - 06.06. Hannover - Internationaler Feuerwerkswettbewerb
-- 07.06. Schweiz - Frauenfeld
+- 07.06. Schweiz - Frauenfeld - Dreiegg
+- 19.06. Fraureuth - Moshair Festival 
 - 20.06. Bröckel - FlotArt Sommerfest
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 20.09. Laichingen - Altes Rathaus 11:00
