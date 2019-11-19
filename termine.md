@@ -70,7 +70,7 @@
 - 22.11. Weil am Rhein - Kesselhaus 20:00
 - 23.11. Schweiz - Horgen - Atelier Hinterrüti
 - 29.11. Hannover - Pavillon 20:00 << Jubiläums Konzert >>
-- 13.12. Minden - Ameise Kulturhügel 20:00
+- 13.12. Petershagen - Mehdis Kulturzentrum - Altes Amtsgericht 20:00
 - 14.12. Heidelberg - DAI
 
 ## Tour 2020
