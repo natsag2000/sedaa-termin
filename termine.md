@@ -82,6 +82,7 @@
 - 25.01. Wolfach - Klausenbauernhof 20:00
 - 01.02. Müllenbach - Alte schule 20:00
 - 02.02. Heidelberg - DAI Filmfestival 20:00
+- 13.03. Duisburg - Steinbruch 20:00
 - 14.03. Buxtehude - Theater im Hinterhof 20:00
 - 03.04. Eltville - KUZ Eichberg 20:00
 - 04.04. Bolanden - Weierhof - Blaues Haus 20:00
@@ -94,9 +95,12 @@
 - 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
 - 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop)
 - 06.06. Hannover - Internationaler Feuerwerkswettbewerb
-- 07.06. Schweiz - Frauenfeld - Dreiegg
+- 07.06. Schweiz - Frauenfeld - Dreiegg 11:00
+- 07.06. Schweiz - Bern - ONO 20:00
 - 19.06. Fraureuth - Moshair Festival 
 - 20.06. Bröckel - FlotArt Sommerfest
+- 26.07. Überlingen - Landesgartenschau
+- 27.07. Schweiz - Uhuru Festival
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 20.09. Laichingen - Altes Rathaus 11:00
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt 20:00
@@ -113,6 +117,7 @@
 ## Tour 2021
 
 - 30.01. Hersbruck - Kultkick 20:00
+- 06.02. Schweiz - Freudenau - Chössi-Theater 20:00
 - 24.04. Weilburg - LindenCult 20:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
 - 30.04. Göppingen - Odeon 20:00
