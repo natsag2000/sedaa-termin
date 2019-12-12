@@ -101,6 +101,7 @@
 - 19.06. Fraureuth - Moshair Festival 
 - 20.06. Bröckel - FlotArt Sommerfest
 - 11.07. Düsseldorf - mongolisches Naadamfest
+- 12.07. Love&Peace Gathering
 - 25.07. Schweiz - Uhuru Festival
 - 26.07. Überlingen - Landesgartenschau
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
@@ -111,7 +112,8 @@
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
-- 21.11. Holland - Limburg Parkstad -Theaters-Heerlen
+- 21.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
+- 22.11. Holland - Huis theater de Steenakker 20:00
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
 - 11.12. Nürnberg - Villa Leon 20:00
