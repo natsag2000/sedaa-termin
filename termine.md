@@ -100,6 +100,7 @@
 - 07.06. Schweiz - Bern - ONO 20:00
 - 19.06. Fraureuth - Moshair Festival 
 - 20.06. Bröckel - FlotArt Sommerfest
+- 11.07. Düsseldorf - mongolisches Naadamfest
 - 25.07. Schweiz - Uhuru Festival
 - 26.07. Überlingen - Landesgartenschau
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
