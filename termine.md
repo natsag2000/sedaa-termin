@@ -47,6 +47,7 @@
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
 - 11.12. Nürnberg - Villa Leon 20:00
+- 12.12. Heidelberg - Dai 20:00
 
 ## Tour 2021
 
