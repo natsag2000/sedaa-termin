@@ -17,6 +17,7 @@
 - 08.04. Mainz - SWR Funkhaus 19:00
 - 09.04. Schwäbisch Gmünd - Kulturcafe 20:00
 - 24.04. Bochum - Kulturrat e.V. 20:00
+- 25.04. Rennerod - Musikschule Klangart 20:00 
 - 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 09.05. Berlin - Petruskirche 20:00
 - 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
@@ -33,6 +34,7 @@
 - 26.07. Überlingen - Landesgartenschau
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 20.09. Laichingen - Altes Rathaus 11:00
+- 02.10. Nürtingen - Integrationswoche
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt 20:00
 - 10.10. Straubingen - Raven 20:00
 - 11.10. München ARS Musica 20:00
