@@ -48,8 +48,10 @@
 - 22.11. Holland - Huis theater de Steenakker 20:00
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
+- 10.12. Kehle - Kulturhaus 20:00
 - 11.12. Nürnberg - Villa Leon 20:00
 - 12.12. Heidelberg - Dai 20:00
+- 13.12. Privatkonzert
 
 ## Tour 2021
 
