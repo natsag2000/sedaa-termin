@@ -34,6 +34,8 @@
 - 12.07. Love&Peace Gathering
 - 25.07. Schweiz - Uhuru Festival
 - 26.07. Überlingen - Landesgartenschau
+- 29.08. Österreich - Asparn an der Zaya
+- 30.08. Österreich - Asparn an der Zaya
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 20.09. Laichingen - Altes Rathaus 11:00
 - 02.10. Nürtingen - Integrationswoche
@@ -57,6 +59,7 @@
 
 - 30.01. Hersbruck - Kultkick 20:00
 - 06.02. Schweiz - Freudenau - Chössi-Theater 20:00
+- 16.04. Schwerin - Speicher 20:00
 - 24.04. Weilburg - LindenCult 20:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
 - 30.04. Göppingen - Odeon 20:00
