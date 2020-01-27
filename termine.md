@@ -6,7 +6,6 @@
 - 17.01. Göttingen - Rathaus 20:00
 - 18.01. Bremen - Kultur Ambulanz 20:00
 - 24.01. Glems - Hirsch 20:30
-- 25.01. Wolfach - Klausenbauernhof 20:00
 - 01.02. Müllenbach - Alte schule 20:00
 - 02.02. Heidelberg - DAI Filmfestival 20:00
 - 13.03. Duisburg - Steinbruch 20:00
@@ -48,6 +47,7 @@
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 21.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 22.11. Holland - Huis theater de Steenakker 20:00
+- 27.11. Bergneustadt - schauspielhaus 20:00
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
 - 10.12. Kehle - Kulturhaus 20:00
