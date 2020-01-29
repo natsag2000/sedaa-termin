@@ -50,7 +50,7 @@
 - 27.11. Bergneustadt - schauspielhaus 20:00
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
-- 10.12. Kehle - Kulturhaus 20:00
+- 10.12. Kehl - Kulturhaus 20:00
 - 11.12. Nürnberg - Villa Leon 20:00
 - 12.12. Heidelberg - Dai 20:00
 - 13.12. Privatkonzert
@@ -65,4 +65,5 @@
 - 08.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
 - 13.06. Niederzissen - Synagoge 17:00
+- 12.09. Ermreuth - Synagoge 17:00
 
