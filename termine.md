@@ -56,8 +56,9 @@
 - 13.12. Privatkonzert
 
 ## Tour 2021
-
+- 28.01. Schweiz - Baar - Rathus-Schüür 20:00
 - 30.01. Hersbruck - Kultkick 20:00
+- 31.01. Waldenburg - Gleis 1 20:00
 - 16.04. Schwerin - Speicher 20:00
 - 24.04. Weilburg - LindenCult 20:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
