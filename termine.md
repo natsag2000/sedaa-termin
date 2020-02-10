@@ -17,7 +17,7 @@
 - 08.04. Mainz - SWR Funkhaus 19:00
 - 09.04. Schwäbisch Gmünd - Kulturcafe 20:00
 - 24.04. Bochum - Kulturrat e.V. 20:00
-- 25.04. Rennerod - Musikschule Klangart 20:00 
+- 25.04. Rennerod - Musikschule Klangart 19:30 
 - 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 08.05. Hofbieber - Kunststation Kleinsassen 20:00
 - 09.05. Berlin - Petruskirche 20:00
@@ -57,6 +57,7 @@
 - 13.12. Privatkonzert
 
 ## Tour 2021
+- 23.01. Dachau - Leierkasten 20:00
 - 28.01. Schweiz - Baar - Rathus-Schüür 20:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 31.01. Waldenburg - Gleis 1 20:00
