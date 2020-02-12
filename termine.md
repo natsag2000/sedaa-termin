@@ -38,8 +38,10 @@
 - 30.08. Österreich - Asparn an der Zaya
 - 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 20.09. Laichingen - Altes Rathaus 11:00
+- 01.10. Ulm - Charivari 20:00
 - 02.10. Nürtingen - Integrationswoche
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt 20:00
+- 09.10. Freiburg - Wodanhalle 20:30
 - 10.10. Straubingen - Raven 20:00
 - 11.10. München ARS Musica 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
