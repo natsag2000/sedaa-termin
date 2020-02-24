@@ -36,7 +36,6 @@
 - 26.07. Überlingen - Landesgartenschau
 - 29.08. Österreich - Asparn an der Zaya
 - 30.08. Österreich - Asparn an der Zaya
-- 04.09. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 20.09. Laichingen - Altes Rathaus 11:00
 - 01.10. Ulm - Charivari 20:00
 - 02.10. Nürtingen - Integrationswoche
@@ -59,6 +58,8 @@
 - 13.12. Privatkonzert
 
 ## Tour 2021
+- 21.01. Isernhagen - kulturkaffee rautenkranz 20:00
+- 22.01. Gauting - Bosco 20:00
 - 23.01. Dachau - Leierkasten 20:00
 - 28.01. Schweiz - Baar - Rathus-Schüür 20:00
 - 30.01. Hersbruck - Kultkick 20:00
