@@ -11,6 +11,8 @@
 - 13.03. Duisburg - Steinbruch 20:00
 - 14.03. Buxtehude - Theater im Hinterhof 20:00
 - 15.03. Postfeld - Alte Meierei am See 20:00
+- 20.03. Hannover - Kanapee 20:00
+- 21.03. Hannover - Kanapee 20:00
 - 03.04. Eltville - KUZ Eichberg 20:00
 - 04.04. Bolanden - Weierhof - Blaues Haus 20:00
 - 05.04. Schweiz - Ins - Kulturverein INSgeheim 16:00
@@ -32,6 +34,7 @@
 - 11.07. Düsseldorf - mongolisches Naadamfest
 - 12.07. Love&Peace Gathering
 - 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30
+- 19.07. Gut Hübenthal - Parimal Sommerfestival
 - 25.07. Schweiz - Uhuru Festival
 - 26.07. Überlingen - Landesgartenschau
 - 29.08. Österreich - Asparn an der Zaya
