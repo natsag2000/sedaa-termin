@@ -22,7 +22,7 @@
 - 25.04. Rennerod - Musikschule Klangart 19:30 
 - 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 08.05. Hofbieber - Kunststation Kleinsassen 20:00
-- 09.05. Berlin - Petruskirche 20:00
+- 09.05. Berlin - Petruskirche 20:00 (15 Uhr Gesangsworkshop)
 - 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
 - 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop)
 - 17.05. Ungarn - TBA
