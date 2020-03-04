@@ -77,4 +77,5 @@
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
 - 13.06. Niederzissen - Synagoge 17:00
 - 12.09. Ermreuth - Synagoge 17:00
+- 14.10. Ravensburg - Zehntscheuer 20:00
 
