@@ -37,6 +37,9 @@
 - 24.07. Frankreich - Airvault - L'Aborigene Festival
 - 25.07. Schweiz - Uhuru Festival
 - 26.07. Überlingen - Landesgartenschau
+- 06.08. Bern - Buskers
+- 07.08. Bern - Buskers
+- 08.08. Bern - Buskers
 - 29.08. Österreich - Asparn an der Zaya
 - 30.08. Österreich - Asparn an der Zaya
 - 11.09. Hannover - Tibet Zentrum
