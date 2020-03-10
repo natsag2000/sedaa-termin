@@ -39,6 +39,7 @@
 - 26.07. Überlingen - Landesgartenschau
 - 29.08. Österreich - Asparn an der Zaya
 - 30.08. Österreich - Asparn an der Zaya
+- 11.09. Hannover - Tibet Zentrum
 - 18.09. Frankfurt - Internationales Theater 20:00
 - 19.09. Ingolstadt - Konzert/Workshop
 - 20.09. Laichingen - Altes Rathaus 11:00
