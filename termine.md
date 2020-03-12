@@ -31,6 +31,7 @@
 - 07.06. Schweiz - Bern - ONO 20:00
 - 19.06. Fraureuth - Moshair Festival 
 - 20.06. Bröckel - FlotArt Sommerfest
+- 10.07. Asendorf - Kulturhaus B.O 20:00
 - 11.07. Düsseldorf - mongolisches Naadamfest
 - 12.07. Love&Peace Gathering
 - 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30
