@@ -10,14 +10,14 @@
 - 02.02. Heidelberg - DAI Filmfestival 20:00
 - 13.03. Duisburg - Steinbruch 20:00
 - 14.03. Buxtehude - Theater im Hinterhof 20:00
-- 15.03. Postfeld - Alte Meierei am See 18:00
-- 20.03. Hannover - Kanapee 20:00
-- 21.03. Hannover - Kanapee 20:00
-- 03.04. Eltville - KUZ Eichberg 20:00
-- 04.04. Bolanden - Weierhof - Blaues Haus 20:00
-- 05.04. Schweiz - Ins - Kulturverein INSgeheim 16:00
-- 08.04. Mainz - SWR Funkhaus 19:00
-- 09.04. Schwäbisch Gmünd - Kulturcafe 20:00
+- 15.03. Postfeld - Alte Meierei am See 18:00 << Canceled >>
+- 20.03. Hannover - Kanapee 20:00 << Canceled >>
+- 21.03. Hannover - Kanapee 20:00 << Canceled >>
+- 03.04. Eltville - KUZ Eichberg 20:00 << Canceled >>
+- 04.04. Bolanden - Weierhof - Blaues Haus 20:00 << Canceled >>
+- 05.04. Schweiz - Ins - Kulturverein INSgeheim 16:00 << Canceled >>
+- 08.04. Mainz - SWR Funkhaus 19:00 << Canceled >>
+- 09.04. Schwäbisch Gmünd - Kulturcafe 20:00 << Canceled >>
 - 24.04. Bochum - Kulturrat e.V. 20:00
 - 25.04. Rennerod - Musikschule Klangart 19:30 
 - 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
@@ -54,6 +54,7 @@
 - 10.10. Straubingen - Raven 20:00
 - 11.10. München ARS Musica 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
+- 03.11. Mainz - SWR Funkhaus 19:00 
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
