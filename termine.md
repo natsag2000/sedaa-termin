@@ -18,9 +18,9 @@
 - 05.04. Schweiz - Ins - Kulturverein INSgeheim 16:00 << Canceled >>
 - 08.04. Mainz - SWR Funkhaus 19:00 << Canceled >>
 - 09.04. Schwäbisch Gmünd - Kulturcafe 20:00 << Canceled >>
-- 24.04. Bochum - Kulturrat e.V. 20:00
-- 25.04. Rennerod - Musikschule Klangart 19:30 
-- 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
+- 24.04. Bochum - Kulturrat e.V. 20:00 << Canceled >>
+- 25.04. Rennerod - Musikschule Klangart 19:30 << Canceled >>
+- 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00<< Canceled >>
 - 08.05. Hofbieber - Kunststation Kleinsassen 20:00
 - 09.05. Berlin - Petruskirche 20:00 (15 Uhr Gesangsworkshop)
 - 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
@@ -54,12 +54,12 @@
 - 10.10. Straubingen - Raven 20:00
 - 11.10. München ARS Musica 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
-- 03.11. Mainz - SWR Funkhaus 19:00 
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 21.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
-- 22.11. Holland - Huis theater de Steenakker 20:00
+- 22.11. Holland - Huis theater de Steenakker 15:30
+- 26.11. Bochum - Kulturrat e.V. 20:00 
 - 27.11. Bergneustadt - schauspielhaus 20:00
 - 28.11. Bad Rodach - Elsa47 20:00
 - 09.12. Rosenheim - Le Pirate 20:30
@@ -75,6 +75,7 @@
 - 28.01. Schweiz - Baar - Rathus-Schüür 20:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 31.01. Waldenburg - Gleis 1 20:00
+- 18.03. Mainz - SWR Funkhaus 19:00
 - 16.04. Schwerin - Speicher 20:00
 - 24.04. Weilburg - LindenCult 20:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
