@@ -75,6 +75,7 @@
 - 28.01. Schweiz - Baar - Rathus-Schüür 20:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 31.01. Waldenburg - Gleis 1 20:00
+- 28.02. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 18.03. Mainz - SWR Funkhaus 19:00
 - 16.04. Schwerin - Speicher 20:00
 - 24.04. Weilburg - LindenCult 20:00
