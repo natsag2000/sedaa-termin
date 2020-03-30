@@ -73,6 +73,7 @@
 - 22.01. Gauting - Bosco 20:00
 - 23.01. Dachau - Leierkasten 20:00
 - 28.01. Schweiz - Baar - Rathus-Schüür 20:00
+- 29.01. Schweit - Basel - H95 20:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 31.01. Waldenburg - Gleis 1 20:00
 - 28.02. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
