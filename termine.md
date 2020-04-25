@@ -21,21 +21,21 @@
 - 24.04. Bochum - Kulturrat e.V. 20:00 << Canceled >>
 - 25.04. Rennerod - Musikschule Klangart 19:30 << Canceled >>
 - 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00<< Canceled >>
-- 08.05. Hofbieber - Kunststation Kleinsassen 20:00
-- 09.05. Berlin - Petruskirche 20:00 (15 Uhr Gesangsworkshop)
-- 15.05. Slowakei - Slovak City of Culture - Nové Zámky 
-- 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop)
-- 17.05. Ungarn - TBA
-- 06.06. Hannover - Internationaler Feuerwerkswettbewerb
-- 07.06. Schweiz - Frauenfeld - Dreiegg 11:00
-- 07.06. Schweiz - Bern - ONO 20:00
-- 19.06. Fraureuth - Moshair Festival 
-- 20.06. Bröckel - FlotArt Sommerfest
-- 10.07. Asendorf - Kulturhaus B.O 20:00
-- 11.07. Düsseldorf - mongolisches Naadamfest
-- 12.07. Love&Peace Gathering
-- 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30
-- 24.07. Frankreich - Airvault - L'Aborigene Festival
+- 08.05. Hofbieber - Kunststation Kleinsassen 20:00 << Canceled >>
+- 09.05. Berlin - Petruskirche 20:00 (15 Uhr Gesangsworkshop) << Canceled >>
+- 15.05. Slowakei - Slovak City of Culture - Nové Zámky << Canceled >>
+- 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop) << Canceled >>
+- 17.05. Ungarn - TBA << Canceled >>
+- 06.06. Hannover - Internationaler Feuerwerkswettbewerb << Canceled >>
+- 07.06. Schweiz - Frauenfeld - Dreiegg 11:00 << Canceled >>
+- 07.06. Schweiz - Bern - ONO 20:00 << Canceled >>
+- 19.06. Fraureuth - Moshair Festival << Canceled >>
+- 20.06. Bröckel - FlotArt Sommerfest << Canceled >>
+- 10.07. Asendorf - Kulturhaus B.O 20:00 << Canceled >>
+- 11.07. Düsseldorf - mongolisches Naadamfest << Canceled >>
+- 12.07. Love&Peace Gathering << Canceled >>
+- 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30 << Canceled >>
+- 24.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
 - 25.07. Schweiz - Uhuru Festival
 - 26.07. Überlingen - Landesgartenschau
 - 06.08. Bern - Buskers
@@ -84,6 +84,7 @@
 - 30.04. Göppingen - Odeon 20:00
 - 08.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 12.06. Hannover - Internationaler Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 12.09. Ermreuth - Synagoge 17:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
