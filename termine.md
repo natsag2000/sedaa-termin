@@ -36,13 +36,18 @@
 - 12.07. Love&Peace Gathering << Canceled >>
 - 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30 << Canceled >>
 - 24.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
-- 25.07. Schweiz - Uhuru Festival
-- 26.07. Überlingen - Landesgartenschau
-- 06.08. Bern - Buskers
-- 07.08. Bern - Buskers
-- 08.08. Bern - Buskers
-- 29.08. Österreich - Asparn an der Zaya
-- 30.08. Österreich - Asparn an der Zaya
+- 25.07. Schweiz - Uhuru Festival - << Canceled >>
+- 26.07. Überlingen - Landesgartenschau - << Canceled >>
+- 06.08. Schweiz - Bern - Buskers << Canceled >>
+- 07.08. Schweiz - Bern - Buskers << Canceled >>
+- 08.08. Schweiz - Bern - Buskers << Canceled >>
+- 11.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
+- 12.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
+- 13.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
+- 14.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
+- 15.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
+- 29.08. Österreich - Asparn an der Zaya << Canceled >>
+- 30.08. Österreich - Asparn an der Zaya << Canceled >>
 - 11.09. Hannover - Tibet Zentrum
 - 18.09. Frankfurt - Internationales Theater 20:00
 - 19.09. Ingolstadt - Konzert/Workshop
