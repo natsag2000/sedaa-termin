@@ -95,7 +95,8 @@
 - 25.07. Überlingen - Landesgartenschau
 - 26.07. Schweiz - Uhuru Festival
 - 28.08. Österreich - Asparn an der Zaya
-- 29.08. Österreich - Asparn an der Zaya 
+- 29.08. Österreich - Asparn an der Zaya
+- 04.09. Kiel - Kulturforum 20:00
 - 12.09. Ermreuth - Synagoge 17:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 
