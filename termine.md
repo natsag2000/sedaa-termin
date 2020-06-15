@@ -89,6 +89,7 @@
 - 30.04. Göppingen - Odeon 20:00
 - 08.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 05.06. Berlin - Petruskirche 20:00
 - 12.06. Hannover - Internationaler Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
