@@ -58,7 +58,6 @@
 - 09.10. Freiburg - Wodanhalle 20:30
 - 10.10. Straubingen - Raven 20:00
 - 11.10. München ARS Musica 20:00
-- 12.10. Harenberg - St. Barbarakirche 19:00
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
@@ -100,5 +99,6 @@
 - 29.08. Österreich - Asparn an der Zaya
 - 04.09. Kiel - Kulturforum 20:00
 - 12.09. Ermreuth - Synagoge 17:00
+- 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 
