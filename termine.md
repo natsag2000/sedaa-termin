@@ -31,7 +31,7 @@
 - 07.06. Schweiz - Bern - ONO 20:00 << Canceled >>
 - 19.06. Fraureuth - Moshair Festival << Canceled >>
 - 20.06. Bröckel - FlotArt Sommerfest << Canceled >>
-- 10.07. Asendorf - Kulturhaus B.O 20:00 << Canceled >>
+- 10.07. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
 - 11.07. Düsseldorf - mongolisches Naadamfest << Canceled >>
 - 12.07. Love&Peace Gathering << Canceled >>
 - 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30 << Canceled >>
