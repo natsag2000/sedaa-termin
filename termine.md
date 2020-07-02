@@ -99,6 +99,9 @@
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
 - 25.07. Überlingen - Landesgartenschau
 - 26.07. Schweiz - Uhuru Festival
+- 21.08. Bärstadt - Mongolei Festival
+- 22.08. Bärstadt - Mongolei Festival
+- 26.08. Österreich - Baden - Haus der Kunst 
 - 28.08. Österreich - Asparn an der Zaya
 - 29.08. Österreich - Asparn an der Zaya
 - 04.09. Kiel - Kulturforum 20:00
