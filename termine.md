@@ -48,9 +48,9 @@
 - 15.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
 - 29.08. Österreich - Asparn an der Zaya << Canceled >>
 - 30.08. Österreich - Asparn an der Zaya << Canceled >>
-- 11.09. Hannover - Tibet Zentrum
+- 11.09. Hannover - Tibet Zentrum << Canceled >>
 - 18.09. Frankfurt - Internationales Theater 20:00
-- 19.09. Ingolstadt - Konzert/Workshop
+- 19.09. Rennerod - Musikschule Klangart 19:30
 - 20.09. Laichingen - Altes Rathaus 11:00
 - 01.10. Ulm - Charivari 20:00
 - 02.10. Nürtingen - Integrationswoche
@@ -87,8 +87,11 @@
 - 24.04. Weilburg - LindenCult 20:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
 - 30.04. Göppingen - Odeon 20:00
-- 08.05. Schweiz - Freudenau - Chössi-Theater 20:00
+- 08.05. Ingolstadt - Konzert/Workshop
+- 09.05. Ingolstadt - Konzert/Workshop
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
+- 23.05. Eppingen - Landesgartenschau
 - 05.06. Berlin - Petruskirche 20:00
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
