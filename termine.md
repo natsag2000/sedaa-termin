@@ -88,6 +88,7 @@
 - 25.04. Schweiz - Frauenfeld - Dreiegg 11:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
 - 30.04. Göppingen - Odeon 20:00
+- 01.05. Glems - Hirsch 20:30
 - 08.05. Ingolstadt - Konzert/Workshop
 - 09.05. Ingolstadt - Konzert/Workshop
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
