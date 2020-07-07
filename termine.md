@@ -85,6 +85,7 @@
 - 16.04. Schwerin - Speicher 20:00
 - 23.04. Waldenburg - Gleis 1 20:00
 - 24.04. Weilburg - LindenCult 20:00
+- 25.04. Schweiz - Frauenfeld - Dreiegg 11:00
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
 - 30.04. Göppingen - Odeon 20:00
 - 08.05. Ingolstadt - Konzert/Workshop
@@ -97,6 +98,8 @@
 - 13.06. Niederzissen - Synagoge 17:00
 - 11.07. Düsseldorf - mongolisches Naadamfest
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
+- 23.07. Eltville - KUZ Eichberg 20:00 
+- 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau
 - 26.07. Schweiz - Uhuru Festival
 - 21.08. Bärstadt - Mongolei Festival
