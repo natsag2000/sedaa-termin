@@ -110,6 +110,7 @@
 - 29.08. Österreich - Asparn an der Zaya
 - 04.09. Kiel - Kulturforum 20:00
 - 12.09. Ermreuth - Synagoge 17:00
+- 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 
