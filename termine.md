@@ -61,7 +61,6 @@
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
-- 21.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 22.11. Holland - Huis theater de Steenakker 15:30
 - 26.11. Bochum - Kulturrat e.V. 20:00 
 - 27.11. Bergneustadt - schauspielhaus 20:00
@@ -91,6 +90,7 @@
 - 01.05. Glems - Hirsch 20:30
 - 08.05. Ingolstadt - Konzert/Workshop
 - 09.05. Ingolstadt - Konzert/Workshop
+- 15.05. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.05. Eppingen - Landesgartenschau
