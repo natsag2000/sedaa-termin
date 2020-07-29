@@ -54,10 +54,10 @@
 - 20.09. Laichingen - Altes Rathaus 11:00
 - 01.10. Ulm - Charivari 20:00
 - 02.10. Nürtingen - Integrationswoche
-- 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt 20:00
+- 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt<< Canceled >>
 - 09.10. Freiburg - Wodanhalle 20:30
 - 10.10. Straubingen - Raven 20:00
-- 11.10. München ARS Musica 20:00
+- 11.10. München ARS Musica << Canceled >>
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
@@ -88,10 +88,13 @@
 - 29.04. Freudenstadt - Kultur am Dobel 20:00
 - 30.04. Göppingen - Odeon 20:00
 - 01.05. Glems - Hirsch 20:30
+- 07.05. München ARS Musica 20:00
 - 08.05. Ingolstadt - Konzert/Workshop
 - 09.05. Ingolstadt - Konzert/Workshop
 - 15.05. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 20.05. Schweiz - Bern - ONO 20:00
+- 21.05. Schweiz - Bern - ONO 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.05. Eppingen - Landesgartenschau
 - 05.06. Berlin - Petruskirche 20:00
