@@ -55,13 +55,13 @@
 - 01.10. Ulm - Charivari 20:00
 - 02.10. Nürtingen - Integrationswoche
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt<< Canceled >>
-- 09.10. Freiburg - Wodanhalle 20:30
-- 10.10. Straubingen - Raven 20:00
+- 09.10. Freiburg - Wodanhalle 20:30 << Canceled >>
+- 10.10. Straubingen - Raven 20:00 << Canceled >>
 - 11.10. München ARS Musica << Canceled >>
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
-- 22.11. Holland - Huis theater de Steenakker 15:30
+- 22.11. Holland - Huis theater de Steenakker 15:30 << Canceled >>
 - 26.11. Bochum - Kulturrat e.V. 20:00 
 - 27.11. Bergneustadt - schauspielhaus 20:00
 - 28.11. Bad Rodach - Elsa47 20:00
@@ -113,6 +113,7 @@
 - 29.08. Österreich - Asparn an der Zaya
 - 04.09. Kiel - Kulturforum 20:00
 - 12.09. Ermreuth - Synagoge 17:00
+- 07.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
