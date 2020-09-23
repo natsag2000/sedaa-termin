@@ -51,7 +51,7 @@
 - 11.09. Hannover - Tibet Zentrum << Canceled >>
 - 18.09. Frankfurt - Internationales Theater 20:00
 - 19.09. Rennerod - Musikschule Klangart 19:30
-- 20.09. Laichingen - Altes Rathaus 11:00
+- 20.09. Laichingen - Altes Rathaus 11:00 << Canceled >>
 - 01.10. Ulm - Charivari 20:00
 - 02.10. Nürtingen - Integrationswoche
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt<< Canceled >>
@@ -62,6 +62,7 @@
 - 13.11. Bechtolsheim - Kulturgut 20:00
 - 14.11. Meidelstetten - Adler 20:00
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
+- 20.11. Postfeld - Alte Meierei am See 20:00
 - 22.11. Holland - Huis theater de Steenakker 15:30 << Canceled >>
 - 26.11. Bochum - Kulturrat e.V. 20:00 
 - 27.11. Bergneustadt - schauspielhaus 20:00
