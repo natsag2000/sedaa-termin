@@ -117,6 +117,7 @@
 - 28.08. Österreich - Asparn an der Zaya
 - 29.08. Österreich - Asparn an der Zaya
 - 04.09. Kiel - Kulturforum 20:00
+- 11.09. Straubingen - Raven 20:00 << Canceled >>
 - 12.09. Ermreuth - Synagoge 17:00
 - 07.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
