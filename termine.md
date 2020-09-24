@@ -119,4 +119,5 @@
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
+- 19.11. Bondorf - Zehntscheuer 20:00
 
