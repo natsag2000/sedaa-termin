@@ -108,6 +108,9 @@
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau
 - 26.07. Schweiz - Uhuru Festival
+- 12.08. Schweiz - Bern - Buskers << Canceled >>
+- 13.08. Schweiz - Bern - Buskers << Canceled >>
+- 14.08. Schweiz - Bern - Buskers << Canceled >>
 - 21.08. Bärstadt - Mongolei Festival
 - 22.08. Bärstadt - Mongolei Festival
 - 26.08. Österreich - Baden - Haus der Kunst 
