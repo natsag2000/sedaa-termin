@@ -102,7 +102,8 @@
 - 05.06. Berlin - Petruskirche 20:00
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
-- 11.07. Düsseldorf - mongolisches Naadamfest
+- 10.07. Düsseldorf - mongolisches Naadamfest
+- 11.07. Hirzbach - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
 - 23.07. Eltville - KUZ Eichberg 20:00 
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
@@ -123,5 +124,5 @@
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
-- 19.11. Bondorf - Zehntscheuer 20:00
+- 20.11. Bondorf - Zehntscheuer 20:00
 
