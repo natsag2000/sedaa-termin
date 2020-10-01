@@ -52,8 +52,8 @@
 - 18.09. Frankfurt - Internationales Theater 20:00
 - 19.09. Rennerod - Musikschule Klangart 19:30
 - 20.09. Laichingen - Altes Rathaus 11:00 << Canceled >>
-- 01.10. Ulm - Charivari 20:00
-- 02.10. Nürtingen - Integrationswoche
+- 01.10. Ulm - Charivari 20:00 << Canceled >>
+- 02.10. Nürtingen - Integrationswoche << Canceled >>
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt<< Canceled >>
 - 09.10. Freiburg - Wodanhalle 20:30 << Canceled >>
 - 10.10. Straubingen - Raven 20:00 << Canceled >>
@@ -103,7 +103,7 @@
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
-- 11.07. Hirzbach - 16:00
+- 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
 - 23.07. Eltville - KUZ Eichberg 20:00 
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
