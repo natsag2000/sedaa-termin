@@ -52,21 +52,21 @@
 - 18.09. Frankfurt - Internationales Theater 20:00
 - 19.09. Rennerod - Musikschule Klangart 19:30
 - 20.09. Laichingen - Altes Rathaus 11:00 << Canceled >>
-- 01.10. Ulm - Charivari 20:00 << Canceled >>
-- 02.10. Nürtingen - Integrationswoche << Canceled >>
+- 01.10. Ulm - Charivari 20:00 
+- 02.10. Nürtingen - Integrationswoche
 - 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt<< Canceled >>
 - 09.10. Freiburg - Wodanhalle 20:30 << Canceled >>
 - 10.10. Straubingen - Raven 20:00 << Canceled >>
 - 11.10. München ARS Musica << Canceled >>
 - 06.11. Österreich - Kufstein - Kulturfabrik 20:00
-- 13.11. Bechtolsheim - Kulturgut 20:00
-- 14.11. Meidelstetten - Adler 20:00
-- 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
-- 20.11. Postfeld - Alte Meierei am See 20:00
+- 13.11. Bechtolsheim - Kulturgut 20:00 << Canceled >>
+- 14.11. Meidelstetten - Adler 20:00 << Canceled >>
+- 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 << Canceled >>
+- 20.11. Postfeld - Alte Meierei am See 20:00 << Canceled >>
 - 22.11. Holland - Huis theater de Steenakker 15:30 << Canceled >>
-- 26.11. Bochum - Kulturrat e.V. 20:00 
-- 27.11. Bergneustadt - schauspielhaus 20:00
-- 28.11. Bad Rodach - Elsa47 20:00
+- 26.11. Bochum - Kulturrat e.V. 20:00 << Canceled >>
+- 27.11. Bergneustadt - schauspielhaus 20:00 << Canceled >>
+- 28.11. Bad Rodach - Elsa47 20:00 << Canceled >>
 - 09.12. Rosenheim - Le Pirate 20:30
 - 10.12. Kehl - Kulturhaus 20:00
 - 11.12. Nürnberg - Villa Leon 20:00
@@ -74,7 +74,7 @@
 - 13.12. Privatkonzert
 
 ## Tour 2021
-- 21.01. Isernhagen - kulturkaffee rautenkranz 20:00
+- 21.01. Isernhagen - kulturkaffee rautenkranz 20:00 << Canceled >>
 - 22.01. Gauting - Bosco 20:00
 - 23.01. Dachau - Leierkasten 20:00
 - 28.01. Schweiz - Baar - Rathus-Schüür 20:00
@@ -93,7 +93,6 @@
 - 07.05. München ARS Musica 20:00
 - 08.05. Ingolstadt - Konzert/Workshop
 - 09.05. Ingolstadt - Konzert/Workshop
-- 15.05. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
 - 20.05. Schweiz - Bern - ONO 20:00
 - 21.05. Schweiz - Bern - ONO 20:00
@@ -102,6 +101,7 @@
 - 05.06. Berlin - Petruskirche 20:00
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
+- 25.06. Friedenshain - Isernhagen
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
@@ -125,5 +125,7 @@
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
+- 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
+- 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
 - 20.11. Bondorf - Zehntscheuer 20:00
 
