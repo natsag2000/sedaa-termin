@@ -99,6 +99,7 @@
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.05. Eppingen - Landesgartenschau
 - 05.06. Berlin - Petruskirche 20:00
+- 06.06. Halle - Objekt 5 20:00
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 25.06. Friedenshain - Isernhagen
