@@ -58,7 +58,7 @@
 - 09.10. Freiburg - Wodanhalle 20:30 << Canceled >>
 - 10.10. Straubingen - Raven 20:00 << Canceled >>
 - 11.10. München ARS Musica << Canceled >>
-- 06.11. Österreich - Kufstein - Kulturfabrik 20:00
+- 06.11. Österreich - Kufstein - Kulturfabrik 20:00 << Canceled >>
 - 13.11. Bechtolsheim - Kulturgut 20:00 << Canceled >>
 - 14.11. Meidelstetten - Adler 20:00 << Canceled >>
 - 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 << Canceled >>
