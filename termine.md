@@ -103,6 +103,7 @@
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 25.06. Friedenshain - Isernhagen
+- 09.07. Bergneustadt - schauspielhaus 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
@@ -110,16 +111,16 @@
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau
 - 26.07. Schweiz - Uhuru Festival
-- 12.08. Schweiz - Bern - Buskers << Canceled >>
-- 13.08. Schweiz - Bern - Buskers << Canceled >>
-- 14.08. Schweiz - Bern - Buskers << Canceled >>
+- 12.08. Schweiz - Bern - Buskers 
+- 13.08. Schweiz - Bern - Buskers
+- 14.08. Schweiz - Bern - Buskers
 - 21.08. Bärstadt - Mongolei Festival
 - 22.08. Bärstadt - Mongolei Festival
 - 26.08. Österreich - Baden - Haus der Kunst 
 - 28.08. Österreich - Asparn an der Zaya
 - 29.08. Österreich - Asparn an der Zaya
 - 04.09. Kiel - Kulturforum 20:00
-- 11.09. Straubingen - Raven 20:00 << Canceled >>
+- 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
 - 07.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt
 - 08.10. Schifferstadt - Kinocenter REX 20:00
