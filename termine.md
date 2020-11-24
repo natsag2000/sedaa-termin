@@ -67,11 +67,11 @@
 - 26.11. Bochum - Kulturrat e.V. 20:00 << Canceled >>
 - 27.11. Bergneustadt - schauspielhaus 20:00 << Canceled >>
 - 28.11. Bad Rodach - Elsa47 20:00 << Canceled >>
-- 09.12. Rosenheim - Le Pirate 20:30
-- 10.12. Kehl - Kulturhaus 20:00
-- 11.12. Nürnberg - Villa Leon 20:00
-- 12.12. Heidelberg - Dai 20:00
-- 13.12. Privatkonzert
+- 09.12. Rosenheim - Le Pirate 20:30 << Canceled >>
+- 10.12. Kehl - Kulturhaus 20:00 << Canceled >>
+- 11.12. Nürnberg - Villa Leon 20:00 << Canceled >>
+- 12.12. Heidelberg - Dai 20:00 << Canceled >>
+- 13.12. Privatkonzert << Canceled >>
 
 ## Tour 2021
 - 21.01. Isernhagen - kulturkaffee rautenkranz 20:00 << Canceled >>
@@ -81,7 +81,6 @@
 - 29.01. Schweiz - Basel - H95 20:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 31.01. Heidelberg - DAI Filmfestival 20:00
-- 28.02. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 18.03. Mainz - SWR Funkhaus 19:00
 - 16.04. Schwerin - Speicher 20:00
 - 23.04. Waldenburg - Gleis 1 20:00
@@ -93,7 +92,7 @@
 - 07.05. München ARS Musica 20:00
 - 08.05. Ingolstadt - Konzert/Workshop
 - 09.05. Ingolstadt - Konzert/Workshop
-- 16.05. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 11.09. Kehl - Kulturhaus 20:00 
 - 20.05. Schweiz - Bern - ONO 20:00
 - 21.05. Schweiz - Bern - ONO 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
@@ -122,12 +121,15 @@
 - 04.09. Kiel - Kulturforum 20:00
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
-- 07.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt
+- 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 07.10. Bad Reichenhall -Kulturverein Sternenzelt
 - 08.10. Schifferstadt - Kinocenter REX 20:00
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
+- 15.10. Nürnberg - Villa Leon 20:00 
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
+- 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
 - 20.11. Bondorf - Zehntscheuer 20:00
 
