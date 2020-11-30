@@ -96,7 +96,7 @@
 - 20.05. Schweiz - Bern - ONO 20:00
 - 21.05. Schweiz - Bern - ONO 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
-- 23.05. Eppingen - Landesgartenschau
+- 23.05. Eppingen - Landesgartenschau 15:00
 - 05.06. Berlin - Petruskirche 20:00
 - 06.06. Lochwitz - Weidengrund 
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
@@ -108,7 +108,7 @@
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
 - 23.07. Eltville - KUZ Eichberg 20:00 
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
-- 25.07. Überlingen - Landesgartenschau
+- 25.07. Überlingen - Landesgartenschau 15:00
 - 26.07. Schweiz - Uhuru Festival
 - 12.08. Schweiz - Bern - Buskers 
 - 13.08. Schweiz - Bern - Buskers
