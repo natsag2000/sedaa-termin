@@ -96,7 +96,7 @@
 - 20.05. Schweiz - Bern - ONO 20:00
 - 21.05. Schweiz - Bern - ONO 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
-- 23.05. Eppingen - Landesgartenschau 15:00
+- 23.05. Eppingen - Landesgartenschau 15:30
 - 05.06. Berlin - Petruskirche 20:00
 - 06.06. Lochwitz - Weidengrund 
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
