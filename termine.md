@@ -83,6 +83,7 @@
 - 31.01. Heidelberg - DAI Filmfestival 20:00
 - 18.03. Mainz - SWR Funkhaus 19:00
 - 16.04. Schwerin - Speicher 20:00
+- 17.04. Fahren 20:00
 - 23.04. Waldenburg - Gleis 1 20:00
 - 24.04. Weilburg - LindenCult 20:00
 - 25.04. Schweiz - Frauenfeld - Dreiegg 11:00
@@ -92,7 +93,7 @@
 - 07.05. München ARS Musica 20:00
 - 08.05. Ingolstadt - Konzert/Workshop
 - 09.05. Ingolstadt - Konzert/Workshop
-- 11.09. Kehl - Kulturhaus 20:00 
+- 11.05. Kehl - Kulturhaus 20:00 
 - 20.05. Schweiz - Bern - ONO 20:00
 - 21.05. Schweiz - Bern - ONO 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
@@ -132,5 +133,10 @@
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
 - 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
+- 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
+- 12.12. Holland - Haps - Housetheatre De Steenakker 20:00
+
+## Tour 2022
+- 30.01. Hersbruck - Kultkick 20:00
 
