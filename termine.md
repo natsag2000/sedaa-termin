@@ -103,7 +103,7 @@
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 25.06. Friedenshain - Isernhagen
-- 09.07. Bergneustadt - schauspielhaus 20:00
+- 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival 
@@ -125,7 +125,8 @@
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt
 - 08.10. Schifferstadt - Kinocenter REX 20:00
-- 09.10. Bolanden - Weierhof - Blaues Haus 20:00 
+- 09.10. Bolanden - Weierhof - Blaues Haus 20:00
+- 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
