@@ -38,6 +38,7 @@
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau 15:00
 - 26.07. Schweiz - Uhuru Festival
+- 11.08. Schweiz - Bern - Buskers 
 - 12.08. Schweiz - Bern - Buskers 
 - 13.08. Schweiz - Bern - Buskers
 - 14.08. Schweiz - Bern - Buskers
