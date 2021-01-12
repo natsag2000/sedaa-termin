@@ -1,85 +1,12 @@
 [AD Ticket Konzert-Tickets im Shop oder Online bestellen](http://www.adticket.de/Sedaa.html) 
 
-## Tour 2020
-
-- 16.01. Ratingen - Buchcafe Peter & Paula 20:00
-- 17.01. Göttingen - Rathaus 20:00
-- 18.01. Bremen - Kultur Ambulanz 20:00
-- 24.01. Glems - Hirsch 20:30
-- 01.02. Müllenbach - Alte schule 20:00
-- 02.02. Heidelberg - DAI Filmfestival 20:00
-- 13.03. Duisburg - Steinbruch 20:00
-- 14.03. Buxtehude - Theater im Hinterhof 20:00
-- 15.03. Postfeld - Alte Meierei am See 18:00 << Canceled >>
-- 20.03. Hannover - Kanapee 20:00 << Canceled >>
-- 21.03. Hannover - Kanapee 20:00 << Canceled >>
-- 03.04. Eltville - KUZ Eichberg 20:00 << Canceled >>
-- 04.04. Bolanden - Weierhof - Blaues Haus 20:00 << Canceled >>
-- 05.04. Schweiz - Ins - Kulturverein INSgeheim 16:00 << Canceled >>
-- 08.04. Mainz - SWR Funkhaus 19:00 << Canceled >>
-- 09.04. Schwäbisch Gmünd - Kulturcafe 20:00 << Canceled >>
-- 24.04. Bochum - Kulturrat e.V. 20:00 << Canceled >>
-- 25.04. Rennerod - Musikschule Klangart 19:30 << Canceled >>
-- 26.04. Holland - 's-Heerarendskerke Zeeland - Een Bunder Kunst 15:00<< Canceled >>
-- 08.05. Hofbieber - Kunststation Kleinsassen 20:00 << Canceled >>
-- 09.05. Berlin - Petruskirche 20:00 (15 Uhr Gesangsworkshop) << Canceled >>
-- 15.05. Slowakei - Slovak City of Culture - Nové Zámky << Canceled >>
-- 16.05. Slowakei - Slovak City of Culture - Nové Zámky (Workshop) << Canceled >>
-- 17.05. Ungarn - TBA << Canceled >>
-- 06.06. Hannover - Internationaler Feuerwerkswettbewerb << Canceled >>
-- 07.06. Schweiz - Frauenfeld - Dreiegg 11:00 << Canceled >>
-- 07.06. Schweiz - Bern - ONO 20:00 << Canceled >>
-- 19.06. Fraureuth - Moshair Festival << Canceled >>
-- 20.06. Bröckel - FlotArt Sommerfest << Canceled >>
-- 10.07. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
-- 11.07. Düsseldorf - mongolisches Naadamfest << Canceled >>
-- 12.07. Love&Peace Gathering << Canceled >>
-- 13.07. München - Tollwood Festival ANDECHSER ZELT 16:30 << Canceled >>
-- 24.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
-- 25.07. Schweiz - Uhuru Festival - << Canceled >>
-- 26.07. Überlingen - Landesgartenschau - << Canceled >>
-- 06.08. Schweiz - Bern - Buskers << Canceled >>
-- 07.08. Schweiz - Bern - Buskers << Canceled >>
-- 08.08. Schweiz - Bern - Buskers << Canceled >>
-- 11.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
-- 12.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
-- 13.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
-- 14.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
-- 15.08. Schweiz - Buskers Festival Neuchatel << Canceled >>
-- 29.08. Österreich - Asparn an der Zaya << Canceled >>
-- 30.08. Österreich - Asparn an der Zaya << Canceled >>
-- 11.09. Hannover - Tibet Zentrum << Canceled >>
-- 18.09. Frankfurt - Internationales Theater 20:00
-- 19.09. Rennerod - Musikschule Klangart 19:30
-- 20.09. Laichingen - Altes Rathaus 11:00 << Canceled >>
-- 01.10. Ulm - Charivari 20:00 
-- 02.10. Nürtingen - Integrationswoche
-- 08.10. Bad Reichenhall - Kunst- und Kulturverein Sternenzelt<< Canceled >>
-- 09.10. Freiburg - Wodanhalle 20:30 << Canceled >>
-- 10.10. Straubingen - Raven 20:00 << Canceled >>
-- 11.10. München ARS Musica << Canceled >>
-- 06.11. Österreich - Kufstein - Kulturfabrik 20:00 << Canceled >>
-- 13.11. Bechtolsheim - Kulturgut 20:00 << Canceled >>
-- 14.11. Meidelstetten - Adler 20:00 << Canceled >>
-- 19.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 << Canceled >>
-- 20.11. Postfeld - Alte Meierei am See 20:00 << Canceled >>
-- 22.11. Holland - Huis theater de Steenakker 15:30 << Canceled >>
-- 26.11. Bochum - Kulturrat e.V. 20:00 << Canceled >>
-- 27.11. Bergneustadt - schauspielhaus 20:00 << Canceled >>
-- 28.11. Bad Rodach - Elsa47 20:00 << Canceled >>
-- 09.12. Rosenheim - Le Pirate 20:30 << Canceled >>
-- 10.12. Kehl - Kulturhaus 20:00 << Canceled >>
-- 11.12. Nürnberg - Villa Leon 20:00 << Canceled >>
-- 12.12. Heidelberg - Dai 20:00 << Canceled >>
-- 13.12. Privatkonzert << Canceled >>
-
 ## Tour 2021
 - 21.01. Isernhagen - kulturkaffee rautenkranz 20:00 << Canceled >>
-- 22.01. Gauting - Bosco 20:00
-- 23.01. Dachau - Leierkasten 20:00
-- 28.01. Schweiz - Baar - Rathus-Schüür 20:00
-- 29.01. Schweiz - Basel - H95 20:00
-- 30.01. Hersbruck - Kultkick 20:00
+- 22.01. Gauting - Bosco 20:00 << Canceled >>
+- 23.01. Dachau - Leierkasten 20:00 << Canceled >>
+- 28.01. Schweiz - Baar - Rathus-Schüür 20:00 << Canceled >>
+- 29.01. Schweiz - Basel - H95 20:00 << Canceled >>
+- 30.01. Hersbruck - Kultkick 20:00 << Canceled >>
 - 31.01. Heidelberg - DAI Filmfestival 20:00
 - 18.03. Mainz - SWR Funkhaus 19:00
 - 16.04. Schwerin - Speicher 20:00
@@ -114,11 +41,9 @@
 - 12.08. Schweiz - Bern - Buskers 
 - 13.08. Schweiz - Bern - Buskers
 - 14.08. Schweiz - Bern - Buskers
-- 21.08. Bärstadt - Mongolei Festival
-- 22.08. Bärstadt - Mongolei Festival
-- 26.08. Österreich - Baden - Haus der Kunst 
-- 28.08. Österreich - Asparn an der Zaya
-- 29.08. Österreich - Asparn an der Zaya
+- 26.08. Österreich - Baden - Haus der Kunst
+- 28.08. Bärstadt - Mongolei Festival
+- 29.08. Bärstadt - Mongolei Festival
 - 04.09. Kiel - Kulturforum 20:00
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
