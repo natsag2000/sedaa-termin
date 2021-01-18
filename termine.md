@@ -60,6 +60,7 @@
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
 - 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
+- 18.11. Schweiz - Baar - Rathus-Schüür 20:00 
 - 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
 - 12.12. Holland - Haps - Housetheatre De Steenakker 20:00
