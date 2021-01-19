@@ -57,7 +57,7 @@
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
 - 16.10. Bad Rodach - Elsa47 20:00
-- 11.11. Mainz - SWR Funkhaus 19:00
+- 11.11. Mainz - SWR Konzert in Gonsberg Palais 19:00
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
 - 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
