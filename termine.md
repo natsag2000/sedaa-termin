@@ -8,9 +8,9 @@
 - 29.01. Schweiz - Basel - H95 20:00 << Canceled >>
 - 30.01. Hersbruck - Kultkick 20:00 << Canceled >>
 - 31.01. Heidelberg - DAI Filmfestival 20:00
-- 18.03. Mainz - SWR Funkhaus 19:00
-- 16.04. Schwerin - Speicher 20:00
-- 17.04. Fahren 20:00
+- 18.03. Mainz - SWR Funkhaus 19:00 << Canceled >>
+- 16.04. Schwerin - Speicher 20:00 << Canceled >>
+- 17.04. Fahren 20:00 << Canceled >>
 - 23.04. Waldenburg - Gleis 1 20:00
 - 24.04. Weilburg - LindenCult 20:00
 - 25.04. Schweiz - Frauenfeld - Dreiegg 11:00
@@ -57,6 +57,7 @@
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
 - 16.10. Bad Rodach - Elsa47 20:00
+- 11.11. Mainz - SWR Funkhaus 19:00
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
 - 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
