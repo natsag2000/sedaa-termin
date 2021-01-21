@@ -29,7 +29,7 @@
 - 06.06. Lochwitz - Weidengrund 
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
-- 25.06. Friedenshain - Isernhagen
+- 26.06. Friedenshain - Isernhagen
 - 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
