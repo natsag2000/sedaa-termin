@@ -25,6 +25,7 @@
 - 21.05. Schweiz - Bern - ONO 20:00
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.05. Eppingen - Landesgartenschau 15:30
+- 04.06. Reinstorf - One World Kulturzentrum 17:00
 - 05.06. Berlin - Petruskirche 20:00
 - 06.06. Lochwitz - Weidengrund 
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
@@ -68,4 +69,6 @@
 
 ## Tour 2022
 - 30.01. Hersbruck - Kultkick 20:00
+- 11.03. Schwerin - Speicher 20:00 
+- 23.10. Laichingen - Altes Rathaus 11:00
 
