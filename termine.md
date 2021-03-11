@@ -50,14 +50,15 @@
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 24.09. Schweiz - Basel - H95 20:00 
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt
 - 08.10. Schifferstadt - Kinocenter REX 20:00
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00
-- 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
 - 16.10. Bad Rodach - Elsa47 20:00
+- 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
 - 11.11. Mainz - SWR Konzert in Gonsberg Palais 19:00
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
