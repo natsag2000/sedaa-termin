@@ -11,15 +11,15 @@
 - 18.03. Mainz - SWR Funkhaus 19:00 << Canceled >>
 - 16.04. Schwerin - Speicher 20:00 << Canceled >>
 - 17.04. Fahren 20:00 << Canceled >>
-- 23.04. Waldenburg - Gleis 1 20:00
-- 24.04. Weilburg - LindenCult 20:00
-- 25.04. Schweiz - Frauenfeld - Dreiegg 11:00
-- 29.04. Freudenstadt - Kultur am Dobel 20:00
-- 30.04. Göppingen - Odeon 20:00
-- 01.05. Glems - Hirsch 20:30
-- 07.05. München ARS Musica 20:00
-- 08.05. Ingolstadt - Konzert/Workshop
-- 09.05. Ingolstadt - Konzert/Workshop
+- 23.04. Waldenburg - Gleis 1 20:00 << Canceled >>
+- 24.04. Weilburg - LindenCult 20:00 << Canceled >>
+- 25.04. Schweiz - Frauenfeld - Dreiegg 11:00 << Canceled >>
+- 29.04. Freudenstadt - Kultur am Dobel 20:00 << Canceled >>
+- 30.04. Göppingen - Odeon 20:00 
+- 01.05. Glems - Hirsch 20:30 << Canceled >>
+- 07.05. München ARS Musica 20:00 << Canceled >>
+- 08.05. Ingolstadt - Konzert/Workshop << Canceled >>
+- 09.05. Ingolstadt - Konzert/Workshop << Canceled >>
 - 11.05. Kehl - Kulturhaus 20:00 
 - 20.05. Schweiz - Bern - ONO 20:00
 - 21.05. Schweiz - Bern - ONO 20:00
@@ -28,6 +28,7 @@
 - 04.06. Reinstorf - One World Kulturzentrum 17:00
 - 05.06. Berlin - Petruskirche 20:00
 - 06.06. Lochwitz - Weidengrund 
+- 11.06. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 13.06. Niederzissen - Synagoge 17:00
 - 26.06. Friedenshain - Isernhagen
@@ -43,7 +44,6 @@
 - 12.08. Schweiz - Bern - Buskers 
 - 13.08. Schweiz - Bern - Buskers
 - 14.08. Schweiz - Bern - Buskers
-- 26.08. Österreich - Baden - Haus der Kunst
 - 28.08. Bärstadt - Mongolei Festival
 - 29.08. Bärstadt - Mongolei Festival
 - 04.09. Kiel - Kulturforum 20:00
@@ -51,6 +51,7 @@
 - 12.09. Ermreuth - Synagoge 17:00
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
 - 24.09. Schweiz - Basel - H95 20:00 
+- 25.09. Glems - Hirsch 20:30
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt
 - 08.10. Schifferstadt - Kinocenter REX 20:00
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00
