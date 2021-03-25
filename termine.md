@@ -72,6 +72,7 @@
 - 12.12. Holland - Haps - Housetheatre De Steenakker 20:00
 
 ## Tour 2022
+- 16.01. Holland - Sluis - Belfort 11:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 11.03. Schwerin - Speicher 20:00 
 - 23.10. Laichingen - Altes Rathaus 11:00
