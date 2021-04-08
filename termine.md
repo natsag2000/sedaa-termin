@@ -29,7 +29,7 @@
 - 05.06. Berlin - Petruskirche 20:00
 - 06.06. Lochwitz - Weidengrund 
 - 11.06. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
-- 12.06. Hannover - Internationales Feuerwerkswettbewerb
+- 12.06. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
 - 13.06. Niederzissen - Synagoge 17:00
 - 26.06. Friedenshain - Isernhagen
 - 09.07. Bechtolsheim - KulturGUT 20:00
@@ -40,11 +40,11 @@
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau 15:00
 - 26.07. Schweiz - Uhuru Festival
-- 11.08. Schweiz - Bern - Buskers 
-- 12.08. Schweiz - Bern - Buskers 
-- 13.08. Schweiz - Bern - Buskers
-- 14.08. Schweiz - Bern - Buskers
-- 28.08. Bärstadt - Mongolei Festival
+- 11.08. Schweiz - Bern - Buskers << Canceled >>
+- 12.08. Schweiz - Bern - Buskers << Canceled >>
+- 13.08. Schweiz - Bern - Buskers << Canceled >>
+- 14.08. Schweiz - Bern - Buskers << Canceled >>
+- 28.08. Bärstadt - Mongolei Festival 
 - 29.08. Bärstadt - Mongolei Festival
 - 04.09. Kiel - Kulturforum 20:00
 - 11.09. Straubingen - Raven 20:00 
