@@ -69,7 +69,7 @@
 - 18.11. Schweiz - Baar - Rathus-Schüür 20:00 
 - 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
-- 12.12. Holland - Haps - Housetheatre De Steenakker 20:00
+- 12.12. Holland - Haps - Housetheatre De Steenakker 15:30
 
 ## Tour 2022
 - 16.01. Holland - Sluis - Belfort 11:00
