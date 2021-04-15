@@ -46,6 +46,7 @@
 - 14.08. Schweiz - Bern - Buskers << Canceled >>
 - 28.08. Bärstadt - Mongolei Festival 
 - 29.08. Bärstadt - Mongolei Festival
+- 03.09. Gera - Comma 20:00
 - 04.09. Kiel - Kulturforum 20:00
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
