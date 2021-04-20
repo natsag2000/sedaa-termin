@@ -75,6 +75,7 @@
 ## Tour 2022
 - 16.01. Holland - Sluis - Belfort 11:00
 - 30.01. Hersbruck - Kultkick 20:00
+- 17.02. Kehl - Kulturhaus 20:00  
 - 11.03. Schwerin - Speicher 20:00 
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.10. Laichingen - Altes Rathaus 11:00
