@@ -48,6 +48,7 @@
 - 29.08. Bärstadt - Mongolei Festival
 - 03.09. Gera - Comma 20:00
 - 04.09. Kiel - Kulturforum 20:00
+- 10.09. Frauenreuth - MoshAir Festival
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
