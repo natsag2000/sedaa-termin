@@ -15,7 +15,7 @@
 - 24.04. Weilburg - LindenCult 20:00 << Canceled >>
 - 25.04. Schweiz - Frauenfeld - Dreiegg 11:00 << Canceled >>
 - 29.04. Freudenstadt - Kultur am Dobel 20:00 << Canceled >>
-- 30.04. Göppingen - Odeon 20:00 
+- 30.04. Göppingen - Odeon 20:00 << Canceled >>
 - 01.05. Glems - Hirsch 20:30 << Canceled >>
 - 07.05. München ARS Musica 20:00 << Canceled >>
 - 08.05. Ingolstadt - Konzert/Workshop << Canceled >>
@@ -59,8 +59,9 @@
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
-- 16.10. Bad Rodach - Elsa 47 20:00
+- 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
+- 30.10. Bad Rodach - Elsa 47 20:00
 - 11.11. Mainz - SWR Konzert in Gonsberg Palais 19:00
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
