@@ -31,6 +31,7 @@
 - 11.06. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
 - 13.06. Niederzissen - Synagoge 17:00
+- 19.06. Slowakei - Slovak City of Culture - Nové Zámky << Canceled >>
 - 26.06. Friedenshain - Isernhagen
 - 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
