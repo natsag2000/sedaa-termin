@@ -31,12 +31,12 @@
 - 11.06. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
 - 13.06. Niederzissen - Synagoge 17:00
-- 19.06. Slowakei - Slovak City of Culture - Nové Zámky << Canceled >>
+- 19.06. Slowakei - Slovak City of Culture - Nové Zámky 
 - 26.06. Friedenshain - Isernhagen
 - 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
-- 16.07. Frankreich - Airvault - L'Aborigene Festival 
+- 16.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
 - 23.07. Eltville - KUZ Eichberg 20:00 
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau 15:00
@@ -45,14 +45,14 @@
 - 12.08. Schweiz - Bern - Buskers << Canceled >>
 - 13.08. Schweiz - Bern - Buskers << Canceled >>
 - 14.08. Schweiz - Bern - Buskers << Canceled >>
-- 28.08. Bärstadt - Mongolei Festival 
-- 29.08. Bärstadt - Mongolei Festival
+- 28.08. Bärstadt - Mongolei Festival << Canceled >>
+- 29.08. Bärstadt - Mongolei Festival  << Canceled >>
 - 03.09. Gera - Comma 20:00
 - 04.09. Kiel - Kulturforum 20:00
 - 10.09. Frauenreuth - MoshAir Festival
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
-- 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00
+- 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00  << Canceled >>
 - 24.09. Schweiz - Basel - H95 20:00 
 - 25.09. Glems - Hirsch 20:30
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt
@@ -79,6 +79,8 @@
 - 16.01. Holland - Sluis - Belfort 11:00
 - 30.01. Hersbruck - Kultkick 20:00
 - 17.02. Kehl - Kulturhaus 20:00  
+- 18.02. Waldenburg - Gleis 1 20:00 
+- 19.02. Dachau - Leierkasten 20:00
 - 11.03. Schwerin - Speicher 20:00 
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.10. Laichingen - Altes Rathaus 11:00
