@@ -64,10 +64,11 @@
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb
 - 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
 - 30.10. Bad Rodach - Elsa 47 20:00
+- 31.10. Frankfurt - Internationales Theater 20:00
 - 11.11. Mainz - SWR Konzert in Gonsberg Palais 19:00
 - 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
-- 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst 15:00
+- 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst << Canceled >>
 - 16.11. Schweiz - Bern - ONO 20:00  
 - 17.11. Schweiz - Bern - ONO 20:00  
 - 18.11. Schweiz - Baar - Rathus-Schüür 20:00 
