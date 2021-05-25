@@ -56,6 +56,7 @@
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00  << Canceled >>
 - 24.09. Schweiz - Basel - H95 20:00 
 - 25.09. Glems - Hirsch 20:30
+- 26.09. Darmstadt - Agora 20:00 
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt
 - 08.10. Schifferstadt - Kinocenter REX 20:00
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00
