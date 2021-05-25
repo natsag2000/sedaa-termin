@@ -37,6 +37,7 @@
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
+- 22.07. Schweinfurt - KulturPackt 20:00
 - 23.07. Eltville - KUZ Eichberg 20:00 
 - 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
 - 25.07. Überlingen - Landesgartenschau 15:00
@@ -74,6 +75,7 @@
 - 18.11. Schweiz - Baar - Rathus-Schüür 20:00 
 - 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
+- 10.12. Hofbieber-Kleinsassen - Kunststadtion 20:00
 - 12.12. Holland - Haps - Housetheatre De Steenakker 15:30
 
 ## Tour 2022
@@ -86,3 +88,5 @@
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 23.10. Laichingen - Altes Rathaus 11:00
 
+## Tour 2023
+- 20.01. Göppingen - Odeon 20:00 
