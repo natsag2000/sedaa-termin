@@ -25,14 +25,14 @@
 - 21.05. Schweiz - Bern - ONO 20:00  << Canceled >>
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00 << Canceled >>
 - 23.05. Eppingen - Landesgartenschau 15:30  << Canceled >>
-- 04.06. Reinstorf - One World Kulturzentrum 17:00
+- 04.06. Reinstorf - One World Kulturzentrum 20:00
 - 05.06. Berlin - Petruskirche 20:00
 - 06.06. Lochwitz - Weidengrund 
 - 11.06. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
-- 13.06. Niederzissen - Synagoge 17:00
+- 13.06. Niederzissen - Synagoge 17:00 << Canceled >>
 - 19.06. Slowakei - Slovak City of Culture - Nové Zámky 
-- 26.06. Friedenshain - Isernhagen
+- 26.06. Friedenshain - Isernhagen 17 und 20 Uhr
 - 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
@@ -63,7 +63,7 @@
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
-- 12.06. Hannover - Internationales Feuerwerkswettbewerb
+- 16.10. Hannover - Internationales Feuerwerkswettbewerb
 - 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
 - 30.10. Bad Rodach - Elsa 47 20:00
 - 31.10. Frankfurt - Internationales Theater 20:00
