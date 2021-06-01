@@ -26,7 +26,7 @@
 - 22.05. Schweiz - Freudenau - Chössi-Theater 20:00 << Canceled >>
 - 23.05. Eppingen - Landesgartenschau 15:30  << Canceled >>
 - 04.06. Reinstorf - One World Kulturzentrum 20:00
-- 05.06. Berlin - Petruskirche 20:00
+- 05.06. Berlin - Petruskirche 19:00
 - 06.06. Lochwitz - Weidengrund 
 - 11.06. Asendorf - Kulturhaus B.O jeweils um 17/19 und 21 Uhr
 - 12.06. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
