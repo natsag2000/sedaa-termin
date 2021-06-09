@@ -35,6 +35,7 @@
 - 26.06. Friedenshain - Isernhagen 17 und 20 Uhr
 - 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest
+- 10.07. Oberhausen 20:00
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
 - 22.07. Schweinfurt - KulturPackt 20:00
@@ -81,7 +82,8 @@
 
 ## Tour 2022
 - 16.01. Holland - Sluis - Belfort 11:00
-- 30.01. Hersbruck - Kultkick 20:00
+- 29.01. Hersbruck - Kultkick 20:30
+- 30.01. Heidelberg - DAI - Filmfestival
 - 17.02. Kehl - Kulturhaus 20:00  
 - 18.02. Waldenburg - Gleis 1 20:00 
 - 19.02. Dachau - Leierkasten 20:00
