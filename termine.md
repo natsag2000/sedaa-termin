@@ -47,10 +47,12 @@
 - 12.08. Schweiz - Bern - Buskers << Canceled >>
 - 13.08. Schweiz - Bern - Buskers << Canceled >>
 - 14.08. Schweiz - Bern - Buskers << Canceled >>
+- 21.08. Österreich - Asparn an der Zaya << Canceled >>
+- 22.08. Österreich - Asparn an der Zaya << Canceled >>
 - 28.08. Bärstadt - Mongolei Festival << Canceled >>
 - 29.08. Bärstadt - Mongolei Festival  << Canceled >>
-- 03.09. Gera - Comma 20:00
-- 04.09. Kiel - Kulturforum 20:00
+- 03.09. Gera - Comma 20:00 << Canceled >>
+- 04.09. Kiel - Kulturforum 20:00 << Canceled >>
 - 10.09. Frauenreuth - MoshAir Festival
 - 11.09. Straubingen - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
