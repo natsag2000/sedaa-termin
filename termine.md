@@ -34,7 +34,7 @@
 - 19.06. Slowakei - Slovak City of Culture - Nové Zámky 
 - 26.06. Friedenshain - Isernhagen 17 und 20 Uhr
 - 09.07. Bechtolsheim - KulturGUT 20:00
-- 10.07. Düsseldorf - mongolisches Naadamfest
+- 10.07. Düsseldorf - mongolisches Naadamfest  << Canceled >>
 - 10.07. Oberhausen 20:00
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
@@ -80,6 +80,7 @@
 - 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
 - 10.12. Hofbieber-Kleinsassen - Kunststadtion 20:00
+- 11.12. Holland - Austerlitz - Beauforthuis 20:00
 - 12.12. Holland - Haps - Housetheatre De Steenakker 15:30
 
 ## Tour 2022
