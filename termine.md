@@ -35,7 +35,7 @@
 - 26.06. Friedenshain - Isernhagen 17 und 20 Uhr
 - 09.07. Bechtolsheim - KulturGUT 20:00
 - 10.07. Düsseldorf - mongolisches Naadamfest  << Canceled >>
-- 10.07. Oberhausen 20:00
+- 10.07. Oberhausen - Zentrum Altenberg 20:00
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
 - 22.07. Schweinfurt - KulturPackt 20:00
