@@ -38,9 +38,9 @@
 - 10.07. Oberhausen - Zentrum Altenberg 20:00
 - 11.07. Hirzbach/Hammersbach - Hirzbacher Kapelle - 16:00
 - 16.07. Frankreich - Airvault - L'Aborigene Festival << Canceled >>
-- 22.07. Schweinfurt - KulturPackt 20:00
-- 23.07. Eltville - KUZ Eichberg 20:00 
-- 24.07. Schwäbisch Gmünd - Kulturcafe 20:00 
+- 22.07. Schweinfurt - KulturPackt 19:30
+- 23.07. Eltville - Open Air Bühne am Hilchenhaus 20:00 
+- 24.07. Schwäbisch Gmünd - Kulturcafe 19:00 
 - 25.07. Überlingen - Landesgartenschau 15:00
 - 26.07. Schweiz - Uhuru Festival
 - 11.08. Schweiz - Bern - Buskers << Canceled >>
