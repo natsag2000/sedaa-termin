@@ -49,7 +49,8 @@
 - 14.08. Schweiz - Bern - Buskers << Canceled >>
 - 21.08. Österreich - Asparn an der Zaya << Canceled >>
 - 22.08. Österreich - Asparn an der Zaya << Canceled >>
-- 28.08. Bärstadt - Mongolei Festival << Canceled >>
+- 27.08. Bröckel - Ausverkauft
+- 28.08. Oberhausen - Zentrum Altenberg 20:00
 - 29.08. Bärstadt - Mongolei Festival  << Canceled >>
 - 03.09. Gera - Comma 20:00 << Canceled >>
 - 04.09. Kiel - Kulturforum 20:00 << Canceled >>
@@ -92,6 +93,7 @@
 - 19.02. Dachau - Leierkasten 20:00
 - 11.03. Schwerin - Speicher 20:00 
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
+- 15.05. Schweiz - Horgen - Atelier Hinterrüti
 - 23.10. Laichingen - Altes Rathaus 11:00
 
 ## Tour 2023
