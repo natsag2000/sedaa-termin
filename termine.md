@@ -95,6 +95,7 @@
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 15.05. Schweiz - Horgen - Atelier Hinterrüti
 - 23.10. Laichingen - Altes Rathaus 11:00
+- 26.011. Norden - Bürgerhaus 20:00
 
 ## Tour 2023
 - 20.01. Göppingen - Odeon 20:00 
