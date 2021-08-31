@@ -53,9 +53,9 @@
 - 29.08. Bärstadt - Mongolei Festival << Canceled >>
 - 03.09. Gera - Comma 20:00 << Canceled >>
 - 04.09. Kiel - Kulturforum 20:00 << Canceled >>
-- 10.09. Frauenreuth - MoshAir Festival
+- 10.09. Frauenreuth - MoshAir Festival << Canceled >>
 - 11.09. Straubing - Raven 20:00 
-- 12.09. Ermreuth - Synagoge 17:00
+- 12.09. Ermreuth - Synagoge 18:00
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00  << Canceled >>
 - 24.09. Schweiz - Basel - H95 20:00 
 - 25.09. Glems - Hirsch 20:30
