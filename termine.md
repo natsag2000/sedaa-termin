@@ -42,32 +42,31 @@
 - 23.07. Eltville - Open Air Bühne am Hilchenhaus 20:00 
 - 24.07. Schwäbisch Gmünd - Kulturcafe 19:00 
 - 25.07. Überlingen - Landesgartenschau 15:00
-- 26.07. Schweiz - Uhuru Festival
+- 26.07. Schweiz - Uhuru Festival << Canceled >>
 - 11.08. Schweiz - Bern - Buskers << Canceled >>
 - 12.08. Schweiz - Bern - Buskers << Canceled >>
 - 13.08. Schweiz - Bern - Buskers << Canceled >>
 - 14.08. Schweiz - Bern - Buskers << Canceled >>
 - 21.08. Österreich - Asparn an der Zaya << Canceled >>
 - 22.08. Österreich - Asparn an der Zaya << Canceled >>
-- 27.08. Bröckel - Ausverkauft
 - 28.08. Oberhausen - Zentrum Altenberg 20:00
-- 29.08. Bärstadt - Mongolei Festival  << Canceled >>
+- 29.08. Bärstadt - Mongolei Festival << Canceled >>
 - 03.09. Gera - Comma 20:00 << Canceled >>
 - 04.09. Kiel - Kulturforum 20:00 << Canceled >>
 - 10.09. Frauenreuth - MoshAir Festival
-- 11.09. Straubingen - Raven 20:00 
+- 11.09. Straubing - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 17:00
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00  << Canceled >>
 - 24.09. Schweiz - Basel - H95 20:00 
 - 25.09. Glems - Hirsch 20:30
 - 26.09. Darmstadt - Agora 20:00 
-- 07.10. Bad Reichenhall -Kulturverein Sternenzelt
+- 07.10. Bad Reichenhall -Kulturverein Sternenzelt << Canceled >>
 - 08.10. Schifferstadt - Kinocenter REX 20:00
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
-- 16.10. Hannover - Internationales Feuerwerkswettbewerb
+- 16.10. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
 - 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
 - 30.10. Bad Rodach - Elsa 47 20:00
 - 31.10. Frankfurt - Internationales Theater 20:00
@@ -80,7 +79,7 @@
 - 18.11. Schweiz - Baar - Rathus-Schüür 20:00 
 - 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
-- 10.12. Hofbieber-Kleinsassen - Kunststadtion 20:00
+- 10.12. Kleinsassen - Kunststadtion 20:00
 - 11.12. Holland - Austerlitz - Beauforthuis 20:00
 - 12.12. Holland - Haps - Housetheatre De Steenakker 15:30
 
