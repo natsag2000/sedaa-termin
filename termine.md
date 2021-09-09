@@ -90,7 +90,9 @@
 - 17.02. Kehl - Kulturhaus 20:00  
 - 18.02. Waldenburg - Gleis 1 20:00 
 - 19.02. Dachau - Leierkasten 20:00
+- 05.03. Kiel - Kulturforum 20:00 
 - 11.03. Schwerin - Speicher 20:00 
+- 30.04. Niederzissen - Synagoge 17:00
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 15.05. Schweiz - Horgen - Atelier Hinterrüti
 - 24.06. Frauenreuth - MoshAir Festival
