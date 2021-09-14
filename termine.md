@@ -98,7 +98,10 @@
 - 24.06. Frauenreuth - MoshAir Festival
 - 25.06. Reserviert
 - 23.10. Laichingen - Altes Rathaus 11:00
+- 12.11. Bochum - Kulturrat (reserviert)
+- 25.11. Bochum - Kulturrat (reserviert)
 - 26.11. Norden - Bürgerhaus 20:00
 
 ## Tour 2023
+- 13.01. Bad Reichenhall -Kulturverein Sternenzelt
 - 20.01. Göppingen - Odeon 20:00 
