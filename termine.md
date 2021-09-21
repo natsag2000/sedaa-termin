@@ -63,6 +63,7 @@
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt << Canceled >>
 - 08.10. Schifferstadt - Kinocenter REX 20:00
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00
+- 10.10. Nettelsee - Kapelle Nettelsee 18:00
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
