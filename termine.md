@@ -104,5 +104,6 @@
 - 26.11. Norden - Bürgerhaus 20:00
 
 ## Tour 2023
-- 13.01. Bad Reichenhall -Kulturverein Sternenzelt
+- 13.01. Bad Reichenhall -Kulturverein Sternenzelt 20:00
 - 20.01. Göppingen - Odeon 20:00 
+- 21.01. Salzkotten - Kulturgut Winkhausen 20:00
