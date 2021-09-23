@@ -98,6 +98,11 @@
 - 15.05. Schweiz - Horgen - Atelier Hinterrüti
 - 24.06. Frauenreuth - MoshAir Festival
 - 25.06. Reserviert
+- 11.08. Bern - Buskers
+- 12.08. Bern - Buskers
+- 13.08. Bern - Buskers
+- 20.08. Düsseldorf - Akustikfestival 
+- 10.09. Weilburg - LindenCult
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 12.11. Bochum - Kulturrat (reserviert)
 - 25.11. Bochum - Kulturrat (reserviert)
