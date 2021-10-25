@@ -72,7 +72,7 @@
 - 30.10. Bad Rodach - Elsa 47 20:00
 - 31.10. Frankfurt - Internationales Theater 18:00
 - 11.11. Mainz - in Zusammenarbeit mit dem SWR in Gonsberg Lounge 19:00
-- 12.11. Holland - Limburg Parkstad -Theaters-Heerlen 20:00
+- 12.11. Holland - Limburg Parkstad -Theaters - Heerlen 20:30
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00 
 - 14.11. Holland -'s-Heerarendskerke Zeeland - Een Bunder Kunst << Canceled >>
 - 16.11. Schweiz - Bern - ONO 20:00  
@@ -97,7 +97,10 @@
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 15.05. Schweiz - Horgen - Atelier Hinterrüti
 - 24.06. Frauenreuth - MoshAir Festival
-- 25.06. Reserviert
+- 25.06. Reserviert (O)
+- 23.07. Reserviert
+- 24.07. Walstedde - Kulturscheune 17:00
+- 29.07. Wülmersen - Wasserschloss 
 - 11.08. Bern - Buskers
 - 12.08. Bern - Buskers
 - 13.08. Bern - Buskers
