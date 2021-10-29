@@ -69,7 +69,7 @@
 - 15.10. Nürnberg - Villa Leon 20:00 
 - 16.10. Hannover - Internationales Feuerwerkswettbewerb << Canceled >>
 - 29.10. Bergneustadt - Schauspielhaus/Jägerhof 20:00
-- 30.10. Bad Rodach - Elsa 47 20:00
+- 30.10. Bad Rodach - Elsa 47 19:30
 - 31.10. Frankfurt - Internationales Theater 18:00
 - 01.11. Oldenburg - Kulturbörse 17:25
 - 02.11. Oldenburg - Kulturbörse - nominiert für den Kulturpreis
