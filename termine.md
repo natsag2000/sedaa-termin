@@ -97,16 +97,18 @@
 - 11.03. Schwerin - Speicher 20:00 
 - 30.04. Niederzissen - Synagoge 17:00
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
-- 15.05. Schweiz - Horgen - Atelier Hinterrüti
+- 15.05. Neuenburg - Landesgartenschau
 - 24.06. Frauenreuth - MoshAir Festival
 - 25.06. Reserviert (O)
 - 23.07. Reserviert
 - 24.07. Walstedde - Kulturscheune 17:00
-- 29.07. Wülmersen - Wasserschloss 
+- 29.07. Wülmersen - Wasserschloss
+- 31.07. Eppingen - Landesgartenschau 
 - 11.08. Bern - Buskers
 - 12.08. Bern - Buskers
 - 13.08. Bern - Buskers
 - 20.08. Düsseldorf - Akustikfestival 
+- 25.08. Trostberg - Gehsteigkonzerte
 - 10.09. Weilburg - LindenCult
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 12.11. Bochum - Kulturrat (reserviert)
