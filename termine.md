@@ -90,6 +90,7 @@
 - 16.01. Holland - Sluis - Belfort 11:00
 - 29.01. Hersbruck - Kultkick 20:30
 - 30.01. Heidelberg - DAI - Filmfestival
+- 12.02. Friedberg - Theater Altes Hallenbad 
 - 17.02. Kehl - Kulturhaus 20:00  
 - 18.02. Waldenburg - Gleis 1 20:00 
 - 19.02. Dachau - Leierkasten 20:00
@@ -109,6 +110,8 @@
 - 13.08. Bern - Buskers
 - 20.08. Düsseldorf - Akustikfestival 
 - 25.08. Trostberg - Gehsteigkonzerte
+- 27.08. Österreich - Asparn an der Zaya
+- 28.08. Österreich - Asparn an der Zaya
 - 10.09. Weilburg - LindenCult
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 12.11. Bochum - Kulturrat (reserviert)
