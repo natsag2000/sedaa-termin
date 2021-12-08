@@ -113,6 +113,7 @@
 - 27.08. Österreich - Asparn an der Zaya
 - 28.08. Österreich - Asparn an der Zaya
 - 10.09. Weilburg - LindenCult
+- 14.10. Berlin - Passionskirche 20:00
 - 22.10. Mainz - ZMO 20:00
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 12.11. Bochum - Kulturrat (reserviert)
