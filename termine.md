@@ -57,13 +57,13 @@
 - 11.09. Straubing - Raven 20:00 
 - 12.09. Ermreuth - Synagoge 18:00
 - 19.09. Holland - Sluis-Zeeland - Belfort-Sluis 20:00  << Canceled >>
-- 24.09. Schweiz - Basel - H95 20:00 
+- 24.09. Schweiz - Basel - H95 20:00 << Canceled >>
 - 25.09. Glems - Hirsch 20:30
 - 26.09. Darmstadt - Agora 20:00 
 - 07.10. Bad Reichenhall -Kulturverein Sternenzelt << Canceled >>
-- 08.10. Schifferstadt - Kinocenter REX 20:00
+- 08.10. Schifferstadt - Kinocenter REX 20:00 << Canceled >>
 - 09.10. Bolanden - Weierhof - Blaues Haus 20:00
-- 10.10. Nettelsee - Kapelle Nettelsee 18:00
+- 10.10. Nettelsee - Kapelle Nettelsee 18:00 << Canceled >>
 - 12.10. Harenberg - St. Barbarakirche 19:00
 - 14.10. Ravensburg - Zehntscheuer 20:00
 - 15.10. Nürnberg - Villa Leon 20:00 
@@ -82,9 +82,9 @@
 - 18.11. Schweiz - Baar - Rathus-Schüür 20:00 
 - 19.11. Gauting - Bosco 20:00
 - 20.11. Bondorf - Zehntscheuer 20:00
-- 10.12. Kleinsassen - Kunststadtion 20:00
-- 11.12. Holland - Austerlitz - Beauforthuis 20:00
-- 12.12. Holland - Haps - Housetheatre De Steenakker 15:30
+- 10.12. Kleinsassen - Kunststadtion 20:00 << Canceled >>
+- 11.12. Holland - Austerlitz - Beauforthuis 20:00 << Canceled >>
+- 12.12. Holland - Haps - Housetheatre De Steenakker 15:30 << Canceled >>
 
 ## Tour 2022
 - 16.01. Holland - Sluis - Belfort 11:00
