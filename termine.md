@@ -24,7 +24,7 @@
 - 12.08. Bern - Buskers
 - 13.08. Bern - Buskers
 - 20.08. Düsseldorf - Akustikfestival 
-- 25.08. Trostberg - Gehsteigkonzerte
+- 26.08. Trostberg - Gehsteigkonzerte
 - 27.08. Österreich - Asparn an der Zaya
 - 28.08. Österreich - Asparn an der Zaya
 - 10.09. Weilburg - LindenCult
