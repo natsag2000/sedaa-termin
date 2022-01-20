@@ -1,7 +1,7 @@
 [AD Ticket Konzert-Tickets im Shop oder Online bestellen](http://www.adticket.de/Sedaa.html) 
 
 ## Tour 2022
-- 16.01. Holland - Sluis - Belfort 11:00
+- 16.01. Holland - Sluis - Belfort 11:00 <cancelled>
 - 29.01. Hersbruck - Kultkick 20:30
 - 30.01. Heidelberg - DAI - Filmfestival
 - 12.02. Friedberg - Theater Altes Hallenbad 
