@@ -13,6 +13,7 @@
 - 30.04. Niederzissen - Synagoge 19:00
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 15.05. Neuenburg - Landesgartenschau
+- 11.06. Hannover - Internationales Feuerwerk
 - 24.06. Frauenreuth - MoshAir Festival
 - 25.06. Reserviert (O)
 - 15.07. Fellbach -  Weltmusikreihe „Grenzenlos"
