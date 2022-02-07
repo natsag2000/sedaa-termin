@@ -16,9 +16,10 @@
 - 24.06. Frauenreuth - MoshAir Festival
 - 25.06. Reserviert (O)
 - 15.07. Fellbach -  Weltmusikreihe „Grenzenlos"
+- 16.07. Nürtingen - Kuckucksei 20:00 
 - 23.07. Reserviert
 - 24.07. Walstedde - Kulturscheune 17:00
-- 29.07. Wülmersen - Wasserschloss
+- 29.07. Wülmersen - Wasserschloss 20:00 
 - 31.07. Eppingen - Landesgartenschau 
 - 11.08. Bern - Buskers
 - 12.08. Bern - Buskers
@@ -27,12 +28,12 @@
 - 26.08. Trostberg - Gehsteigkonzerte
 - 27.08. Österreich - Asparn an der Zaya
 - 28.08. Österreich - Asparn an der Zaya
-- 10.09. Weilburg - LindenCult
+- 10.09. Weilburg - LindenCult 20:00 
 - 14.10. Berlin - Passionskirche 20:00
 - 22.10. Mainz - ZMO 20:00
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 18.11. Frankfurt (Oder) transVOCALE 2022 
-- 25.11. Bochum - Kulturrat (reserviert)
+- 25.11. Bochum - Kulturrat 20:00 
 - 26.11. Norden - Bürgerhaus 20:00
 
 ## Tour 2023
