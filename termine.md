@@ -22,9 +22,6 @@
 - 23.07. Privatkonzert
 - 24.07. Walstedde - Kulturscheune 17:00
 - 29.07. Wülmersen - Wasserschloss 20:00 
-- 11.08. Bern - Buskers
-- 12.08. Bern - Buskers
-- 13.08. Bern - Buskers
 - 20.08. Düsseldorf - Akustikfestival 
 - 26.08. Trostberg - Gehsteigkonzerte
 - 27.08. Österreich - Asparn an der Zaya
