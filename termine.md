@@ -35,7 +35,9 @@
 - 18.11. Frankfurt (Oder) transVOCALE 2022 
 - 25.11. Bochum - Kulturrat 20:00 
 - 26.11. Norden - Bürgerhaus 20:00
-
+- 10.12. Holland - Austerlitz - Beauforthuis 20:15
+- 11.12. Holland - Haps - Housetheatre De Steenakker 15:30
+  
 ## Tour 2023
 - 13.01. Bad Reichenhall -Kulturverein Sternenzelt 20:00
 - 20.01. Göppingen - Odeon 20:00 
