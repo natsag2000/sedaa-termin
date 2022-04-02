@@ -11,6 +11,7 @@
 - 05.03. Kiel - Kulturforum 20:00 
 - 11.03. Schwerin - Speicher 20:00 
 - 30.04. Niederzissen - Synagoge 19:00
+- 13.05. Horgen -  Atelier Hinterrüti 20:00
 - 14.05. Schweiz - Freudenau - Chössi-Theater 20:00
 - 15.05. Neuenburg - Landesgartenschau
 - 10.06. Hofbieber - Kunststation Kleinsassen 20:00
@@ -19,7 +20,7 @@
 - 24.06. Frauenreuth - MoshAir Festival
 - 15.07. Fellbach -  Weltmusikreihe „Grenzenlos"
 - 16.07. Nürtingen - Kuckucksei 20:00 
-- 23.07. Privatkonzert
+- 23.07. Düsseldorf - Privatkonzert
 - 24.07. Walstedde - Kulturscheune 17:00
 - 29.07. Wülmersen - Wasserschloss 20:00 
 - 20.08. Düsseldorf - Akustikfestival 
