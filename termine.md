@@ -1,14 +1,14 @@
 [AD Ticket Konzert-Tickets im Shop oder Online bestellen](http://www.adticket.de/Sedaa.html) 
 
 ## Tour 2022
-- 16.01. Holland - Sluis - Belfort 11:00 -> cancelled!
+- 16.01. Holland - Sluis - Belfort 11:00 - (Cancelled)
 - 29.01. Hersbruck - Kultkick 20:30
 - 30.01. Heidelberg - DAI - Filmfestival
 - 12.02. Friedberg - Theater Altes Hallenbad 
 - 17.02. Kehl - Kulturhaus 20:00  
 - 18.02. Waldenburg - Gleis 1 20:00 
 - 19.02. Dachau - Leierkasten 20:00
-- 05.03. Kiel - Kulturforum 20:00 -> cancelled!
+- 05.03. Kiel - Kulturforum 20:00 - (Cancelled)
 - 11.03. Schwerin - Speicher 20:00 
 - 30.04. Niederzissen - Synagoge 19:00
 - 13.05. Horgen -  Atelier Hinterrüti 20:00
