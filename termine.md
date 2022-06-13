@@ -45,4 +45,5 @@
 - 13.01. Bad Reichenhall -Kulturverein Sternenzelt 20:00
 - 20.01. Göppingen - Odeon 20:00 
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
+- 29.01. Heidelberg - DAI - Filmfestival
 - 30.04. Schwerin - Tanz der Kulturen 
