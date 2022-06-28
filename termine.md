@@ -45,3 +45,4 @@
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
 - 29.01. Heidelberg - DAI - Filmfestival
 - 30.04. Schwerin - Tanz der Kulturen 
+- 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
