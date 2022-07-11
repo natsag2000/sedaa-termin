@@ -17,8 +17,8 @@
 - 10.06. Hofbieber - Kunststation Kleinsassen 20:00
 - 11.06. Hannover - Internationales Feuerwerk
 - 12.06. Rainstorf - One World Kulturzentrum 17:00
-- 24.06. Frauenreuth - MoshAir Festival
-- 15.07. Fellbach -  Weltmusikreihe „Grenzenlos"
+- 24.06. Frauenreuth - MoshAir Festival 20:00
+- 15.07. Fellbach -  Weltmusikreihe „Grenzenlos" 19:00
 - 16.07. Nürtingen - Kuckucksei 20:00 
 - 22.07. Frankreich - Airvault - Reve de l'Aborigene Festival
 - 23.07. Münster - Privatkonzert
