@@ -21,8 +21,6 @@
 - 15.07. Fellbach -  Weltmusikreihe „Grenzenlos" 19:00
 - 16.07. Nürtingen - Kuckucksei 20:00 
 - 22.07. Frankreich - Airvault - Reve de l'Aborigene Festival
-- 23.07. Münster - Privatkonzert
-- 24.07. Walstedde - Kulturscheune 17:00
 - 29.07. Wülmersen - Wasserschloss 20:00 
 - 20.08. Düsseldorf - Akustikfestival 
 - 26.08. Trostberg - Gehsteigkonzerte
