@@ -5,7 +5,6 @@
 - 30.01. Heidelberg - DAI - Filmfestival
 - 12.02. Friedberg - Theater Altes Hallenbad 
 - 17.02. Kehl - Kulturhaus 20:00  
-- 18.02. Waldenburg - Gleis 1 20:00 
 - 19.02. Dachau - Leierkasten 20:00
 - 11.03. Schwerin - Speicher 20:00 
 - 13.05. Horgen -  Atelier Hinterrüti 20:00
