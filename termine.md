@@ -17,6 +17,7 @@
 - 16.07. Nürtingen - Kuckucksei 20:00 
 - 22.07. Frankreich - Airvault - Reve de l'Aborigene Festival
 - 29.07. Wülmersen - Wasserschloss 20:00 
+- 19.08. Kassel - Schlachthof - Meydan Festival
 - 20.08. Düsseldorf - Akustikfestival 
 - 26.08. Trostberg - Gehsteigkonzerte
 - 10.09. Weilburg - LindenCult 20:00 
@@ -27,7 +28,7 @@
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 18.11. Frankfurt (Oder) transVOCALE 2022 
 - 24.11. Isernhagen - Cafe Rautenkranz 20:00
-- 25.11. Bochum - Kulturrat 20:00 
+- 25.11. Bochum - Kulturrat 19:00 
 - 26.11. Norden - Bürgerhaus 20:00
 - 10.12. Holland - Austerlitz - Beauforthuis 20:15
 - 11.12. Holland - Haps - Housetheatre De Steenakker 15:30
