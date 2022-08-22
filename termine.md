@@ -20,6 +20,7 @@
 - 19.08. Kassel - Schlachthof - Meydan Festival
 - 20.08. Düsseldorf - Akustikfestival 
 - 26.08. Trostberg - Gehsteigkonzerte
+- 09.09. Postfeld - Alte meierei am See
 - 10.09. Weilburg - LindenCult 20:00 
 - 11.09. Eppingen - Landesgartenschau 
 - 14.10. Berlin - Passionskirche 20:00
