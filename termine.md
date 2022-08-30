@@ -23,7 +23,7 @@
 - 09.09. Postfeld - Alte meierei am See 19:30
 - 10.09. Weilburg - LindenCult 20:00 
 - 11.09. Eppingen - Landesgartenschau 
-- 14.10. Berlin - Passionskirche 20:00
+- 14.10. Berlin - Heilig-Kreuz-Kirche 21:00
 - 16.10. Frankfurt - Internationales Theater 20:00
 - 20.10. Ratingen TBA 20:00
 - 22.10. Mainz - ZMO 20:00
