@@ -21,11 +21,12 @@
 - 20.08. Düsseldorf - Akustikfestival 
 - 10.09. Weilburg - LindenCult 20:00 
 - 11.09. Eppingen - Landesgartenschau 
-- 14.10. Berlin - Heilig-Kreuz-Kirche 21:00
+- 14.10. Berlin - Heilig-Kreuz-Kirche 21:00 (Wegen Krankheit verschoben auf den 28.10)
 - 16.10. Frankfurt - Internationales Theater 20:00
 - 20.10. Ratingen TBA 20:00
 - 22.10. Mainz - ZMO 20:00
 - 23.10. Laichingen - Altes Rathaus 11:00
+- 28.10. Berlin - Heilig-Kreuz-Kirche 21:00
 - 18.11. Frankfurt (Oder) transVOCALE 2022 
 - 24.11. Isernhagen - Cafe Rautenkranz 20:00
 - 25.11. Bochum - Kulturrat 19:00 
