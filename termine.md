@@ -38,7 +38,9 @@
 - 13.01. Bad Reichenhall -Kulturverein Sternenzelt 20:00
 - 20.01. Göppingen - Odeon 20:00 
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
-- 28.01. Lich 20:00
 - 29.01. Heidelberg - DAI - Filmfestival
-- 30.04. Schwerin - Tanz der Kulturen 
 - 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
+- 09.09. Selb - Folk of the World
+- 26.08. Österreich - Asparn an der Zaya
+- 27.08. Österreich - Asparn an der Zaya
+- 15.12. Mainz - ZMO
