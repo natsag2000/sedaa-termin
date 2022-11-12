@@ -27,10 +27,10 @@
 - 22.10. Mainz - ZMO 19:00
 - 23.10. Laichingen - Altes Rathaus 11:00
 - 28.10. Berlin - Heilig-Kreuz-Kirche 21:00
-- 18.11. Frankfurt (Oder) transVOCALE 2022 
-- 24.11. Isernhagen - Cafe Rautenkranz 20:00
+- 18.11. Frankfurt (Oder) transVOCALE 2022 19:30
+- 24.11. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 25.11. Bochum - Kulturrat 19:00 
-- 26.11. Norden - Bürgerhaus 20:00
+- 26.11. Norden - Bürgerhaus 19:30
 - 10.12. Holland - Austerlitz - Beauforthuis 20:15
 - 11.12. Holland - Haps - Housetheatre De Steenakker 15:30
   
