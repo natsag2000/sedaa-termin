@@ -31,6 +31,7 @@
 - 24.11. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 25.11. Bochum - Kulturrat 19:00 
 - 26.11. Norden - Bürgerhaus 19:30
+- 03.12. Hamburg - Festival Seidenstr. Vol 7
 - 10.12. Holland - Austerlitz - Beauforthuis 20:15
 - 11.12. Holland - Haps - Housetheatre De Steenakker 15:30
   
