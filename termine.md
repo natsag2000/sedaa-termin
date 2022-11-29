@@ -40,7 +40,10 @@
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
 - 29.01. Heidelberg - DAI - Filmfestival
 - 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
+- 17.06. Alfeld - Kunst & Kulturtage
 - 09.09. Selb - Folk of the World
 - 26.08. Österreich - Asparn an der Zaya
 - 27.08. Österreich - Asparn an der Zaya
+- 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
+- 09.12. Hersbruck - Kultkick 20:30
 - 15.12. Mainz - ZMO
