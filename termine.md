@@ -41,6 +41,7 @@
 - 29.01. Heidelberg - DAI - Filmfestival
 - 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
 - 17.06. Alfeld - Kunst & Kulturtage
+- 03.09. Balingen - Landesgartenschau
 - 09.09. Selb - Folk of the World
 - 26.08. Österreich - Asparn an der Zaya
 - 27.08. Österreich - Asparn an der Zaya
