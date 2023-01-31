@@ -48,3 +48,4 @@
 - 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 09.12. Hersbruck - Kultkick 20:30
 - 15.12. Mainz - ZMO
+- 16.12. Heidelberg - DAI 
