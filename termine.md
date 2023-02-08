@@ -49,3 +49,6 @@
 - 09.12. Hersbruck - Kultkick 20:30
 - 15.12. Mainz - ZMO
 - 16.12. Heidelberg - DAI 
+
+## Tour 2024
+- 11.05. Bolanden - Blaues Haus 20:00
