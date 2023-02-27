@@ -4,11 +4,13 @@
 ## Tour 2023
 - 20.01. Göppingen - Odeon 20:00 
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
-- 29.01. Heidelberg - DAI - Filmfestival
+- 29.01. Heidelberg - DAI - Filmfestival 17:00
+- 12.05. Hannover Kanapee 20:00
 - 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
 - 17.06. Alfeld - Kunst & Kulturtage
-- 18.06. Lich - Kirche 17:00
-- 03.09. Balingen - Landesgartenschau
+- 18.06. Lich - Ev. Marienstiftskirche 17:00
+- 02.09. Göttingen - Apex 20:00
+- 03.09. Balingen - Landesgartenschau 
 - 09.09. Selb - Folk of the World
 - 26.08. Österreich - Asparn an der Zaya
 - 27.08. Österreich - Asparn an der Zaya
