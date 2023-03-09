@@ -9,7 +9,7 @@
 - 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
 - 17.06. Alfeld - Kunst & Kulturtage
 - 18.06. Lich - Ev. Marienstiftskirche 17:00
-- 02.09. Göttingen - Apex 20:00
+- 02.09. Luddwigshafen - Das Haus 20:00
 - 03.09. Balingen - Landesgartenschau 
 - 09.09. Selb - Folk of the World
 - 26.08. Österreich - Asparn an der Zaya
