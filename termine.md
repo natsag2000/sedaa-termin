@@ -5,7 +5,6 @@
 - 20.01. Göppingen - Odeon 20:00 
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
 - 29.01. Heidelberg - DAI - Filmfestival 17:00
-- 12.05. Hannover Kanapee 20:00
 - 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
 - 17.06. Alfeld - Kunst & Kulturtage
 - 18.06. Lich - Ev. Marienstiftskirche 17:00
@@ -21,3 +20,4 @@
 
 ## Tour 2024
 - 11.05. Bolanden - Blaues Haus 20:00
+- 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
