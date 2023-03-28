@@ -5,8 +5,8 @@
 - 20.01. Göppingen - Odeon 20:00 
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
 - 29.01. Heidelberg - DAI - Filmfestival 17:00
-- 13.05. Osterwohle - Konzertreihe "Weltmusik im Dorf"
-- 17.06. Alfeld - Kunst & Kulturtage
+- 16.06. Hannover - Kanapee 20:00
+- 17.06. Osterwohle - Konzertreihe "Weltmusik im Dorf"
 - 18.06. Lich - Ev. Marienstiftskirche 17:00
 - 02.09. Luddwigshafen - Das Haus 20:00
 - 03.09. Balingen - Landesgartenschau 
@@ -14,6 +14,7 @@
 - 26.08. Österreich - Asparn an der Zaya
 - 27.08. Österreich - Asparn an der Zaya
 - 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
+- 08.12. Frankfurt - Internationales Theater 20:00
 - 09.12. Hersbruck - Kultkick 20:30
 - 15.12. Mainz - ZMO
 - 16.12. Heidelberg - DAI 
