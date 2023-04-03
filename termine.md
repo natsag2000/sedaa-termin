@@ -13,6 +13,7 @@
 - 09.09. Selb - Folk of the World
 - 26.08. Österreich - Asparn an der Zaya
 - 27.08. Österreich - Asparn an der Zaya
+- 02.12. Polen
 - 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 08.12. Frankfurt - Internationales Theater 20:00
 - 09.12. Hersbruck - Kultkick 20:30
