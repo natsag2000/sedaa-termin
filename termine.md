@@ -6,11 +6,11 @@
 - 21.01. Salzkotten - Kulturgut Winkhausen 20:00
 - 29.01. Heidelberg - DAI - Filmfestival 17:00
 - 16.06. Hannover - Kanapee 20:00
-- 17.06. Osterwohle - Konzertreihe "Weltmusik im Dorf"
+- 17.06. Salzwedel OT Osterwohle - Kirche 19:30
 - 18.06. Lich - Ev. Marienstiftskirche 17:00
-- 02.09. Luddwigshafen - Das Haus 20:00
+- 02.09. Ludwigshafen - Das Haus 20:00
 - 03.09. Balingen - Landesgartenschau 
-- 09.09. Selb - Folk of the World
+- 09.09. Selb - Festival Mediaval
 - 26.08. Österreich - Asparn an der Zaya
 - 27.08. Österreich - Asparn an der Zaya
 - 02.12. Polen
