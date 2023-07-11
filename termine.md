@@ -15,11 +15,13 @@
 - 27.08. Österreich - Asparn an der Zaya
 - 02.12. Polen
 - 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
-- 08.12. Frankfurt - Internationales Theater 20:00
+- 08.12. Lauenau - Kesselhaus 20:00
 - 09.12. Hersbruck - Kultkick 20:30
+- 10.12. Frankfurt - Internationales Theater
 - 15.12. Mainz - ZMO
 - 16.12. Heidelberg - DAI 
 
 ## Tour 2024
 - 11.05. Bolanden - Blaues Haus 20:00
+- 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
