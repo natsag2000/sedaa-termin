@@ -25,3 +25,4 @@
 - 11.05. Bolanden - Blaues Haus 20:00
 - 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
+- 05.12. Bremen - Kulturwerkstatt westend 20:00
