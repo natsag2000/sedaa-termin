@@ -8,11 +8,11 @@
 - 16.06. Hannover - Kanapee 20:00
 - 17.06. Salzwedel OT Osterwohle - Kirche 19:30
 - 18.06. Lich - Ev. Marienstiftskirche 17:00
+- 26.08. Österreich - Asparn an der Zaya
+- 27.08. Österreich - Asparn an der Zaya
 - 02.09. Ludwigshafen - Das Haus 20:00
 - 03.09. Balingen - Landesgartenschau 
 - 09.09. Selb - Festival Mediaval
-- 26.08. Österreich - Asparn an der Zaya
-- 27.08. Österreich - Asparn an der Zaya
 - 02.12. Polen
 - 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
 - 08.12. Lauenau - Kesselhaus 20:00
