@@ -13,8 +13,8 @@
 - 02.09. Ludwigshafen - Das Haus 20:00
 - 03.09. Balingen - Landesgartenschau 
 - 09.09. Selb - Festival Mediaval
-- 02.12. Polen
-- 07.12. Isernhagen - KulturKaffee Rautenkranz 20:00
+- 02.12. Polen - Rzeszow 
+- 07.12. Isernhagen - Rautenkranz 20:00
 - 08.12. Lauenau - Kesselhaus 20:00
 - 09.12. Hersbruck - Kultkick 20:30
 - 10.12. Frankfurt - Internationales Theater
@@ -26,4 +26,5 @@
 - 11.05. Bolanden - Blaues Haus 20:00
 - 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
+- 30.11. Ravensburg - Zehntscheuer 20:00
 - 05.12. Bremen - Kulturwerkstatt westend 20:00
