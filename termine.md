@@ -13,6 +13,7 @@
 - 02.09. Ludwigshafen - Das Haus 20:00
 - 03.09. Balingen - Landesgartenschau 
 - 09.09. Selb - Festival Mediaval
+- 01.12. Polen - Krakau - Klub Alchemia 20:00
 - 02.12. Polen - Rzeszow 
 - 07.12. Isernhagen - Rautenkranz 20:00
 - 08.12. Lauenau - Kesselhaus 20:00
@@ -24,6 +25,7 @@
 ## Tour 2024
 - 27.01. Heidelberg - DAI - Filmfestival 17:00
 - 11.05. Bolanden - Blaues Haus 20:00
+- 21.06. Berlin - Petruskirche 20:00
 - 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
 - 30.11. Ravensburg - Zehntscheuer 20:00
