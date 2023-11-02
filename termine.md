@@ -28,5 +28,9 @@
 - 21.06. Berlin - Petruskirche 20:00
 - 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
+- 23.08. Österreich - Theater am Spittelberg 20:00
+- 24.08. Österreich - Asparn an der Zaya
+- 25.08. Österreich - Asparn an der Zaya
+- 29.09. Holland - Oisterwijk - Protestantse Kerk 15:00
 - 30.11. Ravensburg - Zehntscheuer 20:00
 - 05.12. Bremen - Kulturwerkstatt westend 20:00
