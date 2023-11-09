@@ -18,9 +18,9 @@
 - 07.12. Isernhagen - Rautenkranz 20:00
 - 08.12. Lauenau - Kesselhaus 20:00
 - 09.12. Hersbruck - Kultkick 20:30
-- 10.12. Frankfurt - Internationales Theater
-- 15.12. Mainz - ZMO
-- 16.12. Heidelberg - DAI 
+- 10.12. Frankfurt - Internationales Theater 18:00
+- 15.12. Mainz - ZMO 19:00
+- 16.12. Heidelberg - DAI 20:00
 
 ## Tour 2024
 - 11.05. Bolanden - Blaues Haus 20 00
