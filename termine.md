@@ -31,5 +31,6 @@
 - 24.08. Österreich - Asparn an der Zaya
 - 25.08. Österreich - Asparn an der Zaya
 - 29.09. Holland - Oisterwijk - Protestantse Kerk 15:00
+- 15.11. Hagenow - Alte Synagoge 20:00
 - 30.11. Ravensburg - Zehntscheuer 20:00
 - 05.12. Bremen - Kulturwerkstatt westend 20:00
