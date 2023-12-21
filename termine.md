@@ -35,3 +35,4 @@
 - 30.11. Ravensburg - Zehntscheuer 20:00
 - 05.12. Bremen - Kulturwerkstatt westend 20:00
 - 07.12. Heidelberg - DAI 20:00
+  08.12. Dudenhofen - Bürgerhaus 
