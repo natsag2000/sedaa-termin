@@ -24,7 +24,7 @@
 
 ## Tour 2024
 - 11.05. Bolanden - Blaues Haus 20 00
-- 12.05. Darmstadt - Agora
+- 12.05. Darmstadt - Agora 18:00
 - 21.06. Berlin - Petruskirche 20:00
 - 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
