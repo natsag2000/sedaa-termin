@@ -34,7 +34,8 @@
 - 29.09. Holland - Oisterwijk - Protestantse Kerk 15:00
 - 15.11. Hannover - Pavillon 20:00
 - 16.11. Hagenow - Alte Synagoge 20:00
+- 29.11. Wolfach - Klausenbauernhof 20:00
 - 30.11. Ravensburg - Zehntscheuer 20:00
 - 05.12. Bremen - Kulturwerkstatt westend 20:00
 - 07.12. Heidelberg - DAI 20:00
-  08.12. Dudenhofen - Bürgerhaus 
+  08.12. Dudenhofen - Bürgerhaus 20:00
