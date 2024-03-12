@@ -21,3 +21,8 @@
 ## Tour 2025
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
+## Tour 2024
+- 11.05. Bolanden - Blaues Haus 20 00
+- 12.05. Darmstadt - Agora 18:00
+- 21.06. Berlin - Petruskirche 20:00
+- 22.06. Bechtolsheim - KulturGUT 20:00
