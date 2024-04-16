@@ -14,6 +14,7 @@
 - 16.11. Hagenow - Alte Synagoge 20:00
 - 29.11. Wolfach - Klausenbauernhof 20:00
 - 30.11. Ravensburg - Zehntscheuer 20:00
+- 01.12. Dresden - Staatsschauspiel 19:00
 - 05.12. Bremen - Kulturwerkstatt westend 20:00
 - 07.12. Heidelberg - DAI 20:00
   08.12. Dudenhofen - Bürgerhaus 20:00
