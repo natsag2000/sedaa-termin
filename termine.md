@@ -9,6 +9,7 @@
 - 23.08. Österreich - Theater am Spittelberg 20:00
 - 24.08. Österreich - Asparn an der Zaya
 - 25.08. Österreich - Asparn an der Zaya
+- 28.09. Stranzenbach 20:00
 - 29.09. Holland - Oisterwijk - Protestantse Kerk 15:00
 - 18.10. Mölln - Stadthauptmannshof 20:00
 - 15.11. Hannover - Pavillon 20:00
@@ -23,3 +24,5 @@
 ## Tour 2025
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
+- 15.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
+- 16.11. Holland - 's-Heer Arendskerke - Een Bunder Kunst
