@@ -24,5 +24,7 @@
 ## Tour 2025
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
+- 24.05. Holland - Oost-Souburg - Razzmatazz 20:00
+- 05.07. Hildesheim - Hildesheimer Wallungen
 - 15.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 20:00
