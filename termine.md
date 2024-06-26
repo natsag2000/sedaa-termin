@@ -28,9 +28,9 @@
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
 - 24.05. Netherlands - Oost-Souburg - Razzmatazz 20:00
-- 25.05. Netherlands  - Amsterdam - Mezrab
+- 25.05. Netherlands  - Amsterdam - Mezrab 20:00
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
-- 05.07. Hildesheim - Hildesheimer Wallungen
+- 05.07. Hildesheim - Hildesheimer Wallungen 20:00
 - 15.11. Netherlands  - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Netherlands  -'s-Heer Arendskerke - Een Bunder Kunst 20:00
