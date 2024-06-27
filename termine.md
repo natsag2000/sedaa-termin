@@ -32,5 +32,5 @@
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
 - 05.07. Hildesheim - Hildesheimer Wallungen 20:00
-- 15.11. Netherlands  - Abcoude - Theater Piet Mondriaan 20:00
+- 13.11. Netherlands  - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Netherlands  -'s-Heer Arendskerke - Een Bunder Kunst 20:00
