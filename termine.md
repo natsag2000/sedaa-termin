@@ -36,3 +36,7 @@
 - 18.10. ZMO - Mainz 19:00
 - 13.11. Netherlands  - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Netherlands  -'s-Heer Arendskerke - Een Bunder Kunst 20:00
+
+
+## Tour 2027
+- 17.04. Bühl - Schüttekeller 20:00
