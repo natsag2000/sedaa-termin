@@ -7,7 +7,7 @@
 - 22.06. Bechtolsheim - KulturGUT 20:00
 - 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
 - 27.07. Poland - Krakow TBA
-- 23.08. Austria - Vienna - Theater am Spittelberg 20:00
+- 23.08. Austria - Vienna - Theater am Spittelberg 19:30
 - 24.08. Austria - Asparn an der Zaya
 - 25.08. Austria - Asparn an der Zaya
 - 28.09. Stranzenbach - Gartenkonzert 20:00
