@@ -10,7 +10,7 @@
 - 23.08. Austria - Vienna - Theater am Spittelberg 19:30
 - 24.08. Austria - Asparn an der Zaya
 - 25.08. Austria - Asparn an der Zaya
-- 28.09. Stranzenbach - Gartenkonzert 20:00
+- 28.09. Privatkonzert
 - 29.09. Netherlands - Oisterwijk - Protestantse Kerk 15:00
 - 17.10. Schiphorst - Advantgarde-Festival 
 - 18.10. Mölln - Stadthauptmannshof 20:00
