@@ -33,6 +33,8 @@
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
 - 05.07. Hildesheim - Wallungen 20:00
+- 23.08. Austria - Asparn an der Zaya
+- 24.08. Austria - Asparn an der Zaya
 - 26.09. Österreich - Kufstein - Kulturfabrik 20:00
 - 17.10. Friedberg - Altes Hallenbad 20:00
 - 18.10. ZMO - Mainz 19:00
