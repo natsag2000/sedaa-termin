@@ -27,9 +27,11 @@
 - 29.03. Ottersberg TBA 20:00
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
+- 13.04. Waldenburg Gleis 1 
 - 23.05. Oberhausen - Ebertbad 20:00
 - 24.05. Netherlands - Oost-Souburg - Razzmatazz 20:00
 - 25.05. Netherlands - Amsterdam - Mezrab 20:00
+- 01.06. Austria - Vienna - Theater am Spittelberg 
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
 - 05.07. Hildesheim - Wallungen 20:00
