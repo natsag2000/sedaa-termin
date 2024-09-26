@@ -46,6 +46,7 @@
 - 19.10. Frankfurt - Internationales Theater 18:00
 - 13.11. Netherlands - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Netherlands -'s-Heer Arendskerke - Een Bunder Kunst 20:00
+- 29.11. Templin - Multikulturelles Zentrum
 
 
 ## Tour 2027
