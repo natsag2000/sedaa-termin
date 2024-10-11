@@ -34,7 +34,7 @@
 - 24.05. Netherlands - Oost-Souburg - Razzmatazz 20:00
 - 25.05. Netherlands - Amsterdam - Mezrab 20:00
 - 30.05. Austria - Baden - Haus der Kunst 19:00
-- 01.06. Austria - Vienna - Theater am Spittelberg
+- 01.06. Austria - Vienna - Theater am Spittelberg 16:00
 - 13.06. Vöhl - Synagoge
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
