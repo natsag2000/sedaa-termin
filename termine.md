@@ -24,6 +24,7 @@
 - 08.12. Dudenhofen - Bürgerhaus 20:00
 
 ## Tour 2025
+- 28.03. Lauenburg - Altes Kaufmannshaus 20:00
 - 29.03. Ottersberg TBA 20:00
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
