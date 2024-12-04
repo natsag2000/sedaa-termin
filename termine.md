@@ -33,7 +33,7 @@
 - 11.05. Bückeburg 17:00
 - 23.05. Oberhausen - Ebertbad 20:00
 - 24.05. Netherlands - Oost-Souburg - Razzmatazz 20:00
-- 14:30. Netherlands - Westmaas Dorpskerk 14:30
+- 25.05. Netherlands - Westmaas Dorpskerk 14:30
 - 30.05. Austria - Baden - Haus der Kunst 19:00
 - 01.06. Austria - Vienna - Theater am Spittelberg 16:00
 - 13.06. Vöhl - Synagoge
