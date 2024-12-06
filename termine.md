@@ -29,7 +29,8 @@
 - 11.04. Metzingen - Hirsch 20:00
 - 12.04. Dornstetten - Engel 20:00
 - 13.04. Waldenburg Gleis 1
-- 09.05. Nottuln 20:00
+- 09.05. Bad Essen - Schafstall 20:00
+- 10.05. Nottuln 20:00
 - 11.05. Bückeburg 17:00
 - 23.05. Oberhausen - Ebertbad 20:00
 - 24.05. Netherlands - Oost-Souburg - Razzmatazz 20:00
