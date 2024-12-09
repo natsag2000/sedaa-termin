@@ -1,28 +1,5 @@
 [AD Ticket Konzert-Tickets im Shop oder Online bestellen](http://www.adticket.de/Sedaa.html) 
 
-## Tour 2024
-- 11.05. Bolanden - Blaues Haus 20 00
-- 12.05. Darmstadt - Agora 18:00
-- 21.06. Berlin - Petruskirche 20:00
-- 22.06. Bechtolsheim - KulturGUT 20:00
-- 23.06. Hammerrsbach - Hirzbacher Kapelle 16:00
-- 27.07. Poland - Krakow TBA
-- 23.08. Austria - Vienna - Theater am Spittelberg 19:30
-- 24.08. Austria - Asparn an der Zaya
-- 25.08. Austria - Asparn an der Zaya
-- 28.09. Privatkonzert
-- 29.09. Netherlands - Oisterwijk - Protestantse Kerk 15:00
-- 17.10. Schiphorst - Advantgarde-Festival 
-- 18.10. Mölln - Stadthauptmannshof 20:00
-- 15.11. Hannover - Pavillon 20:00
-- 16.11. Hagenow - Alte Synagoge 20:00
-- 29.11. Wolfach - Klausenbauernhof 20:00
-- 30.11. Ravensburg - Zehntscheuer 20:00
-- 01.12. Dresden - Staatsschauspiel 19:00
-- 05.12. Bremen - Kulturwerkstatt westend 20:00
-- 07.12. Heidelberg - DAI 20:00
-- 08.12. Dudenhofen - Bürgerhaus 20:00
-
 ## Tour 2025
 - 28.03. Lauenburg - Altes Kaufmannshaus 20:00
 - 29.03. Ottersberg TBA 20:00
