@@ -26,9 +26,9 @@
 - 17.10. Friedberg - Altes Hallenbad 20:00
 - 18.10. ZMO - Mainz 19:00
 - 19.10. Frankfurt - Internationales Theater 18:00
+- 24.10. Austria - Kufstein 20:00
 - 25.10. Lorch am Rhein - Kulturtage
 - 07.11. Bremen - Übersee-Museum
-- 24.10. Austria - Kufstein 20:00
 - 08.11. Aurich - Buchmesse Grundschule Lamberti
 - 13.11. Netherlands - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Netherlands -'s-Heer Arendskerke - Een Bunder Kunst 20:00
