@@ -10,27 +10,27 @@
 - 10.05. Nottuln - Alter Hof Schoppmann 20:00
 - 11.05. Bückeburg - Schloß Baum 17:00
 - 23.05. Oberhausen - Ebertbad 20:00
-- 24.05. Netherlands - Oost-Souburg - Razzmatazz 20:00
-- 25.05. Netherlands - Westmaas Dorpskerk 14:30
-- 30.05. Austria - Baden - Haus der Kunst 19:00
-- 01.06. Austria - Vienna - Theater am Spittelberg 16:00
+- 24.05. Holland - Oost-Souburg - Razzmatazz 20:00
+- 25.05. Holland - Westmaas Dorpskerk 14:30
+- 30.05. Österreich- Baden - Haus der Kunst 19:00
+- 01.06. Österreich - Vienna - Theater am Spittelberg 16:00
 - 13.06. Vöhl - Synagoge
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
 - 05.07. Hildesheim - Wallungen 20:00
-- 15.08. Lithuania - Gaia Gathering
-- 16.08. Lithuania - Gaia Gathering 
-- 23.08. Austria - Asparn an der Zaya
-- 24.08. Austria - Asparn an der Zaya
+- 15.08. Litauen - Gaia Gathering
+- 16.08. Litauen - Gaia Gathering 
+- 23.08. Österreich - Asparn an der Zaya
+- 24.08. Österreich- Asparn an der Zaya
 - 17.10. Friedberg - Altes Hallenbad 20:00
 - 18.10. ZMO - Mainz 19:00
 - 19.10. Frankfurt - Internationales Theater 18:00
-- 24.10. Austria - Kufstein - Kulturfabrik 20:00
+- 24.10. Österreich - Kufstein - Kulturfabrik 20:00
 - 25.10. Lorch am Rhein - Kulturtage
 - 07.11. Bremen - Übersee-Museum
 - 08.11. Aurich - Buchmesse Grundschule Lamberti
-- 13.11. Netherlands - Abcoude - Theater Piet Mondriaan 20:00
-- 16.11. Netherlands -'s-Heer Arendskerke - Een Bunder Kunst 20:00
+- 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
+- 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 20:00
 - 29.11. Templin - Multikulturelles Zentrum
 
 
