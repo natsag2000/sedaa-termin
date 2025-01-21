@@ -22,11 +22,10 @@
 - 16.08. Lithuania - Gaia Gathering 
 - 23.08. Austria - Asparn an der Zaya
 - 24.08. Austria - Asparn an der Zaya
-- 26.09. Österreich - Kufstein - Kulturfabrik 20:00
 - 17.10. Friedberg - Altes Hallenbad 20:00
 - 18.10. ZMO - Mainz 19:00
 - 19.10. Frankfurt - Internationales Theater 18:00
-- 24.10. Austria - Kufstein 20:00
+- 24.10. Austria - Kufstein - Kulturfabrik 20:00
 - 25.10. Lorch am Rhein - Kulturtage
 - 07.11. Bremen - Übersee-Museum
 - 08.11. Aurich - Buchmesse Grundschule Lamberti
