@@ -17,11 +17,13 @@
 - 13.06. Vöhl - Synagoge 20:00
 - 14.06. Lippstadt - Jacobikirche 20:00
 - 15.06. Berlin - Petruskirche 17:00
-- 05.07. Hildesheim - Wallungen 20:00
+- 03.07. Hannover - Kanapee 20:00
+  04.07. Hannover - Kanapee 20:00
+- 05.07. Hildesheim - Ernst-Erhlicher Park
 - 15.08. Litauen - Gaia Gathering
 - 16.08. Litauen - Gaia Gathering 
 - 23.08. Österreich - Asparn an der Zaya
-- 24.08. Österreich- Asparn an der Zaya
+- 24.08. Österreich - Asparn an der Zaya
 - 17.10. Friedberg - Altes Hallenbad 20:00
 - 18.10. ZMO - Mainz 19:00
 - 19.10. Frankfurt - Internationales Theater 18:00
