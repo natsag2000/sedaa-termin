@@ -9,7 +9,7 @@
 - 09.05. Bad Essen - Schafstall 20:00
 - 10.05. Nottuln - Alter Hof Schoppmann 20:00
 - 11.05. Bückeburg - Schloß Baum 17:00
-- 23.05. Oberhausen - Ebertbad 20:00
+- 23.05. Ratingen - Stadtbücherei 20:00
 - 24.05. Holland - Oost-Souburg - Razzmatazz 20:00
 - 25.05. Holland - Westmaas Dorpskerk 14:30
 - 30.05. Österreich - Baden - Haus der Kunst 19:00
