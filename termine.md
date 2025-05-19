@@ -9,7 +9,7 @@
 - 09.05. Bad Essen - Schafstall 20:00
 - 10.05. Nottuln - Alter Hof Schoppmann 20:00
 - 11.05. Bückeburg - Schloß Baum 17:00
-- 23.05. Ratingen - Stadtbücherei 20:00
+- 23.05. Ratingen - Buch-Cafe Peter & Paula 20:00
 - 24.05. Holland - Oost-Souburg - Razzmatazz 20:00
 - 25.05. Holland - Westmaas Dorpskerk 14:30
 - 30.05. Österreich - Baden - Haus der Kunst 19:00
@@ -31,6 +31,7 @@
 - 25.10. Lorch am Rhein - Kulturtage 20:00
 - 07.11. Bremen - Übersee Museum
 - 08.11. Aurich - Buchmesse Grundschule Lamberti
+- 09.11. Lübeck - Gesangsworkshop
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 20:00
 - 29.11. Templin - Multikulturelles Zentrum 20:00
