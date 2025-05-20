@@ -31,7 +31,7 @@
 - 25.10. Lorch am Rhein - Kulturtage 20:00
 - 07.11. Bremen - Übersee Museum
 - 08.11. Aurich - Buchmesse Grundschule Lamberti
-- 09.11. Lübeck - Gesangsworkshop
+- 09.11. Kiel - musiculum - Gesangsworkshop
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 20:00
 - 29.11. Templin - Multikulturelles Zentrum 20:00
