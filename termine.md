@@ -36,6 +36,9 @@
 - 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 20:00
 - 29.11. Templin - Multikulturelles Zentrum 20:00
 
+## Tour 2026
+- 23.05. Goslar - Churchwalk
+- 06.11. Hamburg - Kulturkirche Altona
 
 ## Tour 2027
 - 17.04. Bühl - Schüttekeller 20:00
