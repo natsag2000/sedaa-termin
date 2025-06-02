@@ -38,6 +38,7 @@
 
 ## Tour 2026
 - 23.05. Goslar - Churchwalk
+- 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
 
 ## Tour 2027
