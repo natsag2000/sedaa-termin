@@ -16,7 +16,7 @@
 - 01.06. Österreich - Wien - Theater am Spittelberg 16:00
 - 13.06. Vöhl - Synagoge 20:00
 - 14.06. Lippstadt - Jacobikirche 20:00
-- 15.06. Berlin - Petruskirche 17:00
+- 15.06. Berlin - Petruskirche - Workshop 15:00/Konzert 20:00
 - 03.07. Hannover - Kanapee 20:00
   04.07. Hannover - Kanapee 20:00
 - 05.07. Hildesheim - Ernst-Erhlicher Park
@@ -38,6 +38,7 @@
 
 ## Tour 2026
 - 23.05. Goslar - Churchwalk
+- 12.09. Bad Essen - Privatkonzert
 - 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
 
