@@ -15,7 +15,7 @@
 - 30.05. Österreich - Baden - Haus der Kunst 19:00
 - 01.06. Österreich - Wien - Theater am Spittelberg 16:00
 - 13.06. Vöhl - Synagoge 19:00
-- 14.06. Lippstadt - Jacobikirche 20:00
+- 14.06. Lippstadt - Jacobikirche 19:30
 - 15.06. Berlin - Petruskirche - Workshop 15:00/Konzert 20:00
 - 03.07. Hannover - Kanapee 20:00
   04.07. Hannover - Kanapee 20:00
