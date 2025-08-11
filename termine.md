@@ -40,6 +40,7 @@
 - 29.11. Templin - Multikulturelles Zentrum 20:00
 
 ## Tour 2026
+- 22.05. Bochum - Kulturrat 20:00
 - 23.05. Goslar - Churchwalk
 - 12.09. Bad Essen - Privatkonzert
 - 20.09. Köln - Privatkonzert
