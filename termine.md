@@ -45,6 +45,8 @@
 - 12.09. Bad Essen - Privatkonzert
 - 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
+- 29.08. Österreich - Asparn an der Zaya
+- 30.08. Österreich - Asparn an der Zaya
 
 ## Tour 2027
 - 17.04. Bühl - Schüttekeller 20:00
