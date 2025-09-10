@@ -32,7 +32,7 @@
 - 24.10. Österreich - Kufstein - Kulturfabrik 20:00
 - 25.10. Lorch am Rhein - Kulturtage 20:00
 - 07.11. Bremen - Übersee Museum
-- 08.11. Aurich - Buchmesse Grundschule Lamberti
+- 08.11. Aurich - Buchmesse Grundschule Lamberti 19:30
 - 09.11. Kiel - musiculum - Gesangsworkshop
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
 - 14.11. Holland - Privatkonzert
@@ -49,4 +49,5 @@
 - 30.08. Österreich - Asparn an der Zaya
 
 ## Tour 2027
+- 16.04. Bolanden - Das Blaue Haus
 - 17.04. Bühl - Schüttekeller 20:00
