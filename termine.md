@@ -25,7 +25,7 @@
 - 23.08. Österreich - Asparn an der Zaya
 - 24.08. Österreich - Asparn an der Zaya
 - 10.10. Berlin - Heilig Kreuz Kirche 20:00
-- 11.10. Oderaue - Theater am Rand 20:00
+- 11.10. Oderaue - Theater am Rand 19:30
 - 17.10. Friedberg - Altes Hallenbad 20:00
 - 18.10. ZMO - Mainz 19:00
 - 19.10. Frankfurt - Internationales Theater 18:00
