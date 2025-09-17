@@ -26,17 +26,17 @@
 - 24.08. Österreich - Asparn an der Zaya
 - 10.10. Berlin - Heilig Kreuz Kirche 20:00
 - 11.10. Oderaue - Theater am Rand 19:30
-- 17.10. Friedberg - Altes Hallenbad 20:00
-- 18.10. ZMO - Mainz 19:00
+- 17.10. Friedberg - Altes Hallenbad 19:30
+- 18.10. ZMO - Mainz 18:00
 - 19.10. Frankfurt - Internationales Theater 18:00
 - 24.10. Österreich - Kufstein - Kulturfabrik 20:00
-- 25.10. Lorch am Rhein - Kulturtage 20:00
-- 07.11. Bremen - Übersee Museum
+- 25.10. Lorch am Rhein - Rittersaal des Hilchenhauses 19:00
+- 07.11. Bremen - Übersee Museum 19:45
 - 08.11. Aurich - Buchmesse Grundschule Lamberti 19:30
 - 09.11. Kiel - musiculum - Gesangsworkshop
-- 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:00
+- 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:15
 - 14.11. Holland - Privatkonzert
-- 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 20:00
+- 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 15:00
 - 29.11. Templin - Multikulturelles Zentrum 20:00
 
 ## Tour 2026
