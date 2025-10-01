@@ -37,6 +37,7 @@
 - 13.11. Holland - Abcoude - Theater Piet Mondriaan 20:15
 - 14.11. Holland - Privatkonzert
 - 16.11. Holland -'s-Heer Arendskerke - Een Bunder Kunst 15:00
+- 28.11. Wismar -  Kirche St. Marien/St. Georgen 18:00 
 - 29.11. Templin - Multikulturelles Zentrum 20:00
 
 ## Tour 2026
