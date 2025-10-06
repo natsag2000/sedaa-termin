@@ -24,7 +24,7 @@
 - 16.08. Litauen - Gaia Gathering 
 - 23.08. Österreich - Asparn an der Zaya
 - 24.08. Österreich - Asparn an der Zaya
-- 10.10. Berlin - Heilig Kreuz Kirche 20:00
+- 10.10. Berlin - Heilig Kreuz Kirche 21:00
 - 11.10. Oderaue - Theater am Rand 19:30
 - 17.10. Friedberg - Altes Hallenbad 19:30
 - 18.10. ZMO - Mainz 18:00
