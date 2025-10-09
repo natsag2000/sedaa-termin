@@ -46,6 +46,7 @@
 - 12.09. Bad Essen - Privatkonzert
 - 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
+- 22.08. Ahlen - Schuhfabrik 20:00
 - 29.08. Österreich - Asparn an der Zaya
 - 30.08. Österreich - Asparn an der Zaya
 
