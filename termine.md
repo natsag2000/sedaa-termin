@@ -44,7 +44,9 @@
 - 22.05. Bochum - Kulturrat 20:00
 - 23.05. Goslar - Churchwalk
 - 12.09. Bad Essen - Privatkonzert
+- 19.09. DAI - Heidelberg
 - 20.09. Köln - Privatkonzert
+- 05.11. Bad Homborg - Englische Kirche
 - 06.11. Hamburg - Kulturkirche Altona
 - 22.08. Ahlen - Schuhfabrik 20:00
 - 29.08. Österreich - Asparn an der Zaya
