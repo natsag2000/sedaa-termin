@@ -44,13 +44,14 @@
 - 22.05. Bochum - Kulturrat 20:00
 - 23.05. Goslar - Churchwalk
 - 12.09. Bad Essen - Privatkonzert
-- 19.09. DAI - Heidelberg
+- 19.09. Heidelberg - DAI
 - 20.09. Köln - Privatkonzert
-- 05.11. Bad Homborg - Englische Kirche
 - 06.11. Hamburg - Kulturkirche Altona
+- 05.11. Bad Homborg - Englische Kirche
+- 08.08. Netherlands - Baarle Nassau 
 - 22.08. Ahlen - Schuhfabrik 20:00
-- 29.08. Österreich - Asparn an der Zaya
-- 30.08. Österreich - Asparn an der Zaya
+- 29.08. Austria - Asparn an der Zaya
+- 30.08. Austria - Asparn an der Zaya
 
 ## Tour 2027
 - 16.04. Bolanden - Das Blaue Haus
