@@ -48,7 +48,8 @@
 - 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
 - 05.11. Bad Homborg - Englische Kirche
-- 08.08. Netherlands - Baarle Nassau 
+- 08.08. Netherlands - Baarle Nassau
+- 20.08. Isernhagen - Rautenkranz
 - 22.08. Ahlen - Schuhfabrik 20:00
 - 29.08. Austria - Asparn an der Zaya
 - 30.08. Austria - Asparn an der Zaya
