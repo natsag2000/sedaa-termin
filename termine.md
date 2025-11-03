@@ -47,7 +47,7 @@
 - 19.09. Heidelberg - DAI
 - 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
-- 05.11. Bad Homborg - Englische Kirche
+- 19.11. Bad Homborg - Englische Kirche
 - 08.08. Netherlands - Baarle Nassau
 - 20.08. Isernhagen - Rautenkranz
 - 22.08. Ahlen - Schuhfabrik 20:00
