@@ -44,6 +44,7 @@
 - 22.05. Bochum - Kulturrat 20:00
 - 23.05. Goslar - Churchwalk
 - 12.09. Bad Essen - Privatkonzert
+- 13.09. Bückeburg - Schloss Baum
 - 19.09. Heidelberg - DAI
 - 20.09. Köln - Privatkonzert
 - 06.11. Hamburg - Kulturkirche Altona
