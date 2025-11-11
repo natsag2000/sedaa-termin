@@ -42,19 +42,12 @@
 
 ## Tour 2026
 - 22.05. Bochum - Kulturrat 20:00
-- 23.05. Goslar - Churchwalk
-- 12.09. Bad Essen - Privatkonzert
-- 13.09. Bückeburg - Schloss Baum
-- 19.09. Heidelberg - DAI
-- 20.09. Köln - Privatkonzert
-- 06.11. Hamburg - Kulturkirche Altona
-- 19.11. Bad Homborg - Englische Kirche
-- 08.08. Netherlands - Baarle Nassau
-- 20.08. Isernhagen - Rautenkranz
+- 23.05. Goslar - Churc
 - 22.08. Ahlen - Schuhfabrik 20:00
 - 29.08. Austria - Asparn an der Zaya
 - 30.08. Austria - Asparn an der Zaya
 
 ## Tour 2027
-- 16.04. Bolanden - Das Blaue Haus
+- 16.04. Bolanden - Das Blaue Haus 20:00
 - 17.04. Bühl - Schüttekeller 20:00
+- 18.04. Solingen - Kulturmanagement 
