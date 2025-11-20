@@ -42,7 +42,7 @@
 
 ## Tour 2026
 - 22.05. Germany - Bochum - Kulturrat 20:00
-- 23.05. Germany - Goslar - Churc 20:00
+- 23.05. Germany - Goslar - Church 20:00
 - 08.08. Belgium - Baarle Nassau 20:00
 - 20.08. Germany - Isernhagen - Cafe Rautenkranz 20:00
 - 22.08. Germany - Ahlen - Schuhfabrik 20:00
