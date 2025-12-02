@@ -58,4 +58,5 @@
 ## Tour 2027
 - 16.04. Bolanden - Das Blaue Haus 20:00
 - 17.04. Bühl - Schüttekeller 20:00
-- 18.04. Solingen - Kulturmanagement 
+- 18.04. Solingen - Kulturmanagement
+- 20.11. Templin - Multikulturelles Zentrum 20:00
