@@ -14,6 +14,7 @@
 - 06.11. Germany - Hamburg - Kulturkirche Altona
 - 18.11. Aurich - Gezeitenkonzerte 20:00
 - 19.11. Germany - Bad Homborg - Englische Kirche 20:00
+- 20.11. Hannover - Hölderlin Eins 18:00
 - 29.08. Austria - Asparn an der Zaya 20:00
 - 30.08. Austria - Asparn an der Zaya 20:00
 
