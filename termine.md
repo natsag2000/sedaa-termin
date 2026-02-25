@@ -6,7 +6,7 @@
 - 08.08. Belgium - Baarle Nassau - Cultuurcentrum 8:00 pm
 - 20.08. Germany - Isernhagen - Cafe Rautenkranz 8:00 pm
 - 22.08. Germany - Ahlen - Schuhfabrik 8:00 pm
-- 13.09. Germany - Bückeburg - Schloß Baum 5:00 pm
+- 23.09. Germany - Bückeburg - Schloß Baum 5:00 pm
 - 10.09. Colombia - Bogota - Festival Musica Sacra
 - 11.09. Colombia - Bogota - Festival Musica Sacra
 - 12.09. Germany - Bad Essen - Privatkonzert 5:00 pm
