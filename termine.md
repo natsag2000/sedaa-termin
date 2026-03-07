@@ -9,10 +9,11 @@
 - 23.09. Germany - Bückeburg - Schloß Baum 5:00 pm
 - 10.09. Colombia - Bogota - Festival Musica Sacra
 - 11.09. Colombia - Bogota - Festival Musica Sacra
-- 12.09. Germany - Bad Essen - Privatkonzert 5:00 pm
 - 19.09. Germany - Heidelberg - DAI 8:00 pm
 - 20.09. Germany - Köln - Privatkonzert 8:00 pm
+- 25.10. Germany - Bad Essen - Privatkonzert 5:00 pm
 - 06.11. Germany - Hamburg - Kulturkirche Altona 8:00 pm
+- 07.11. Germany - Bremerhaven - Pferdestall 8:00 pm
 - 18.11. Aurich - Gezeitenkonzerte 8:00 pm
 - 19.11. Germany - Bad Homborg - Englische Kirche 8:00 pm
 - 20.11. Hannover - Hölderlin Eins 8:00 pm
