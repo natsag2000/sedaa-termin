@@ -4,6 +4,7 @@
 - 22.05. Germany - Bochum - Kulturrat 8:00 pm
 - 23.05. Germany - Goslar - Church 8:00 pm
 - 08.08. Belgium - Baarle Nassau - Cultuurcentrum 8:00 pm
+- 09.08. Germany - Lochwitz - Weidengrund
 - 20.08. Germany - Isernhagen - Cafe Rautenkranz 8:00 pm
 - 22.08. Germany - Ahlen - Schuhfabrik 8:00 pm
 - 23.08. Germany - Bückeburg - Schloß Baum 5:00 pm
