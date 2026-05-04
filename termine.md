@@ -28,4 +28,5 @@
 - 18.04. Germany - Solingen - Kulturmanagement 8:00 pm
 - 19.11. Germany - Ilmenau - Kleinod 19:30 Pm
 - 20.11. Germany - Templin - Multikulturelles Zentrum 8:00 pm
+- 21.11. Germany - Winsen - Dat Groode Hus 8:00 pm
  
