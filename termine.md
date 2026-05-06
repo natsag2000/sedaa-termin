@@ -2,6 +2,7 @@
 
 ## Tour 2026
 - 22.05. Germany - Bochum - Kulturrat 8:00 pm
+- 29.05. Poland - Krakow - Consulate of Mongolia
 - 23.05. Germany - Goslar - Church 8:00 pm
 - 08.08. Belgium - Baarle Nassau - Cultuurcentrum 8:00 pm
 - 09.08. Germany - Lochwitz - Weidengrund
@@ -23,6 +24,7 @@
 
 ## Tour 2027
 - 24.03. Belgium - Peer - De Kleine Klub 8:00 pm
+- 25.03. Germany - Visselhövede - EigenArt Kultur 8:00 pm 
 - 16.04. Germany - Bolanden - Das Blaue Haus 8:00 pm
 - 17.04. Germany - Bühl - Schüttekeller 8:00 pm
 - 18.04. Germany - Solingen - Kulturmanagement 8:00 pm
