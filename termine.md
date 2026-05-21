@@ -2,8 +2,8 @@
 
 ## Tour 2026
 - 22.05. Germany - Bochum - Kulturrat 8:00 pm
-- 29.05. Poland - Krakow - Consulate of Mongolia
 - 23.05. Germany - Goslar - Church 8:00 pm
+- 29.05. Poland - Krakow - Consulate of Mongolia
 - 08.08. Belgium - Baarle Nassau - Cultuurcentrum 8:00 pm
 - 09.08. Germany - Lochwitz - Weidengrund
 - 20.08. Germany - Isernhagen - Cafe Rautenkranz 8:00 pm
