@@ -24,11 +24,11 @@
 
 ## Tour 2027
 - 24.03. Belgium - Peer - De Kleine Klub 8:00 pm
-- 25.03. Germany - Visselhövede - EigenArt Kultur 8:00 pm 
+- 25.03. Germany - Visselhövede - EigenArt Kultur 7:30 pm
 - 16.04. Germany - Bolanden - Das Blaue Haus 8:00 pm
 - 17.04. Germany - Bühl - Schüttekeller 8:00 pm
 - 18.04. Germany - Solingen - Kulturmanagement 8:00 pm
-- 19.11. Germany - Ilmenau - Kleinod 19:30 Pm
+- 19.11. Germany - Ilmenau - Kleinod 7:30 pm
 - 20.11. Germany - Templin - Multikulturelles Zentrum 8:00 pm
 - 21.11. Germany - Winsen - Dat Groode Hus 8:00 pm
  
