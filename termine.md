@@ -15,6 +15,8 @@
 - 11.09. Colombia - Bogota - Festival Musica Sacra
 - 19.09. Germany - Heidelberg - DAI 8:00 pm
 - 20.09. Germany - Köln - Privatkonzert 8:00 pm
+- 23.10. Germany - Hannover - Kanapee 8:00 pm
+- 23.10. Germany - Hannover - Kanapee 8:00 pm
 - 25.10. Germany - Bad Essen - Privatkonzert 5:00 pm
 - 06.11. Germany - Hamburg - Kulturkirche Altona 8:00 pm
 - 07.11. Germany - Bremerhaven - Pferdestall 8:00 pm
