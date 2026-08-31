@@ -30,6 +30,8 @@
 - 16.04. Germany - Bolanden - Das Blaue Haus 8:00 pm
 - 17.04. Germany - Bühl - Schüttekeller 8:00 pm
 - 18.04. Germany - Solingen - Kulturmanagement 8:00 pm
+- 28.08. Austria - Asparn an der Zaya 8:00 pm
+- 29.08. Austria - Asparn an der Zaya 8:00 pm
 - 11.09. Germany - Lauenau - Kesselhaus 8:00 pm
 - 19.11. Germany - Ilmenau - Kleinod 7:30 pm
 - 20.11. Germany - Templin - Multikulturelles Zentrum 8:00 pm
