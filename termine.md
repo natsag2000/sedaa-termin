@@ -27,6 +27,7 @@
 ## Tour 2027
 - 24.03. Belgium - Peer - De Kleine Klub 8:00 pm
 - 25.03. Germany - Visselhövede - EigenArt Kultur 7:30 pm
+- 15.04. Germany - Northeim - Theater der Nacht 8:00 pm
 - 16.04. Germany - Bolanden - Das Blaue Haus 8:00 pm
 - 17.04. Germany - Bühl - Schüttekeller 8:00 pm
 - 18.04. Germany - Solingen - Kulturmanagement 8:00 pm
