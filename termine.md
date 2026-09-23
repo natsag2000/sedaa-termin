@@ -31,6 +31,7 @@
 - 16.04. Germany - Bolanden - Das Blaue Haus 8:00 pm
 - 17.04. Germany - Bühl - Schüttekeller 8:00 pm
 - 18.04. Germany - Solingen - Kulturmanagement 8:00 pm
+- 12.07. Germany - Sachsen-Anhalt - Altmarkt Festspiele 8:00 pm
 - 24.07. Switzerland - Romainmotier - Centre Culture Henosis 
 - 28.08. Austria - Asparn an der Zaya 8:00 pm
 - 29.08. Austria - Asparn an der Zaya 8:00 pm
