@@ -13,7 +13,7 @@
 - 30.08. Austria - Asparn an der Zaya 8:00 pm
 - 10.09. Colombia - Bogota - Festival Musica Sacra
 - 11.09. Colombia - Bogota - Festival Musica Sacra
-- 19.09. Germany - Heidelberg - DAI <<cancelled>>
+- 19.09. Germany - Heidelberg - DAI 8:00 pm
 - 20.09. Germany - Köln - Privatkonzert 8:00 pm
 - 23.10. Germany - Hannover - Kanapee 8:00 pm
 - 24.10. Germany - Hannover - Kanapee 8:00 pm
@@ -35,6 +35,7 @@
 - 24.07. Switzerland - Romainmotier - Centre Culture Henosis 
 - 28.08. Austria - Asparn an der Zaya 8:00 pm
 - 29.08. Austria - Asparn an der Zaya 8:00 pm
+- 10.09. Germany - Göttingen - Apex 8:00 pm
 - 11.09. Germany - Lauenau - Kesselhaus 8:00 pm
 - 19.11. Germany - Ilmenau - Kleinod 7:30 pm
 - 20.11. Germany - Templin - Multikulturelles Zentrum 8:00 pm
