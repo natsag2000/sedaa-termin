@@ -40,5 +40,7 @@
 - 19.11. Germany - Ilmenau - Kleinod 7:30 pm
 - 20.11. Germany - Templin - Multikulturelles Zentrum 8:00 pm
 - 21.11. Germany - Winsen - Dat Groode Hus 8:00 pm
+- 10.04. Germany - Metzingen - Hirsch 8:00 pm
+- 11.04. Germany - Dornstetten - Engel 8:00 pm
 - 19.12. Netherlands -  Oisterwijk - Lodewijkskerkje 3:00 Pm
  
