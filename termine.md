@@ -22,7 +22,7 @@
 - 07.11. Germany - Bremerhaven - Pferdestall 8:00 pm
 - 18.11. Aurich - Gezeitenkonzerte 7:00 pm
 - 19.11. Germany - Bad Homborg - Englische Kirche 8:00 pm
-- 20.11. Hannover - Hölderlin Eins 8:00 pm
+- 20.11. Hannover - Hölderlin Eins 5:30 pm
 
 ## Tour 2027
 - 24.03. Belgium - Peer - De Kleine Klub 8:00 pm
@@ -42,5 +42,5 @@
 - 21.11. Germany - Winsen - Dat Groode Hus 8:00 pm
 - 10.12. Germany - Metzingen - Hirsch 8:00 pm
 - 11.12. Germany - Dornstetten - Engel 8:00 pm
-- 19.12. Netherlands -  Oisterwijk - Lodewijkskerkje 3:00 Pm
+- 19.12. Netherlands - Oisterwijk - Lodewijkskerkje 3:00 Pm
  
